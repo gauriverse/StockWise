@@ -1,0 +1,11 @@
+supplier_id,supplier_name,city,state,avg_lead_time_days
+S01,Annapurna Agro Traders,Indore,Madhya Pradesh,5
+S02,Gokul Dairy Distributors,Pune,Maharashtra,2
+S03,Crunchy Foods Pvt Ltd,Ahmedabad,Gujarat,4
+S04,Fresh Sip Beverages,Mumbai,Maharashtra,3
+S05,Glow Personal Care,Gurugram,Haryana,6
+S06,HomeShine Products,Bengaluru,Karnataka,5
+S07,Tasty Pantry Foods,Chennai,Tamil Nadu,7
+S08,PaperCraft Stationers,Sivakasi,Tamil Nadu,8
+S09,Kisan Wholesale Mart,Nagpur,Maharashtra,9
+S10,Metro Snacks & Foods,Delhi,Delhi,4

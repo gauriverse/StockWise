@@ -1,0 +1,7 @@
+store_id,store_name,city,state,region
+ST01,StockWise Pune - Kothrud,Pune,Maharashtra,West
+ST02,StockWise Mumbai - Andheri,Mumbai,Maharashtra,West
+ST03,StockWise Delhi - Saket,Delhi,Delhi,North
+ST04,StockWise Bengaluru - Indiranagar,Bengaluru,Karnataka,South
+ST05,StockWise Hyderabad - Madhapur,Hyderabad,Telangana,South
+ST06,StockWise Chennai - T Nagar,Chennai,Tamil Nadu,South
