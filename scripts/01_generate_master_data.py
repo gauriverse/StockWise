@@ -111,7 +111,7 @@ catalog = {
 rows, n = [], 1
 for category, (sup_ids, brands, items) in catalog.items():
     for i, (name, mrp, gst, shelf) in enumerate(items):
-        unit_cost = round(mrp * rng.uniform(0.72, 0.88), 2)  # 12-28% margin on MRP
+        unit_cost = round(mrp / (1 + gst / 100) * rng.uniform(0.72, 0.88), 2)  # 12-28% margin on MRP
         rows.append((f"P{n:03d}", name, category, brands[i % len(brands)],
                      unit_cost, mrp, gst, sup_ids[i % len(sup_ids)], shelf))
         n += 1
@@ -125,6 +125,7 @@ assert products["product_id"].is_unique, "Duplicate product IDs"
 assert (products["unit_cost"] < products["mrp"]).all(), "Cost must be below MRP"
 assert products["supplier_id"].isin(suppliers["supplier_id"]).all(), "Unknown supplier"
 assert products["gst_rate"].isin([0, 5, 18]).all(), "Unexpected GST slab"
+assert (products["unit_cost"] < products["mrp"] / (1 + products["gst_rate"] / 100)).all(), "Cost above ex-GST price"
 
 # ---------- SAVE ----------
 suppliers.to_csv(DATA_DIR / "suppliers.csv", index=False)

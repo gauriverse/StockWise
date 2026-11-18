@@ -1,121 +1,121 @@
 product_id,sku_name,category,brand,unit_cost,mrp,gst_rate,supplier_id,shelf_life_days
-P001,Basmati Rice 5 kg,Staples & Grains,DesiHarvest,509.83,620,5,S01,365.0
-P002,Sona Masoori Rice 10 kg,Staples & Grains,KisanGold,463.36,640,5,S09,365.0
-P003,Whole Wheat Atta 5 kg,Staples & Grains,AnnaPure,198.64,260,5,S01,180.0
-P004,Toor Dal 1 kg,Staples & Grains,DesiHarvest,136.03,180,5,S09,365.0
-P005,Moong Dal 1 kg,Staples & Grains,KisanGold,125.68,150,5,S01,365.0
-P006,Chana Dal 1 kg,Staples & Grains,AnnaPure,91.11,110,5,S09,365.0
-P007,Masoor Dal 1 kg,Staples & Grains,DesiHarvest,90.59,105,5,S01,365.0
-P008,Besan 500 g,Staples & Grains,KisanGold,62.38,85,5,S09,180.0
-P009,Sugar 1 kg,Staples & Grains,AnnaPure,40.95,52,5,S01,365.0
+P001,Basmati Rice 5 kg,Staples & Grains,DesiHarvest,485.55,620,5,S01,365.0
+P002,Sona Masoori Rice 10 kg,Staples & Grains,KisanGold,441.3,640,5,S09,365.0
+P003,Whole Wheat Atta 5 kg,Staples & Grains,AnnaPure,189.18,260,5,S01,180.0
+P004,Toor Dal 1 kg,Staples & Grains,DesiHarvest,129.55,180,5,S09,365.0
+P005,Moong Dal 1 kg,Staples & Grains,KisanGold,119.69,150,5,S01,365.0
+P006,Chana Dal 1 kg,Staples & Grains,AnnaPure,86.77,110,5,S09,365.0
+P007,Masoor Dal 1 kg,Staples & Grains,DesiHarvest,86.27,105,5,S01,365.0
+P008,Besan 500 g,Staples & Grains,KisanGold,59.41,85,5,S09,180.0
+P009,Sugar 1 kg,Staples & Grains,AnnaPure,39.0,52,5,S01,365.0
 P010,Iodised Salt 1 kg,Staples & Grains,DesiHarvest,20.29,28,0,S09,730.0
-P011,Poha 500 g,Staples & Grains,KisanGold,41.52,55,5,S01,270.0
-P012,Suji Rava 500 g,Staples & Grains,AnnaPure,38.44,48,5,S09,270.0
-P013,Sunflower Oil 1 L,Staples & Grains,DesiHarvest,119.5,165,5,S01,270.0
-P014,Groundnut Oil 1 L,Staples & Grains,KisanGold,161.64,215,5,S09,270.0
-P015,Turmeric Powder 200 g,Staples & Grains,AnnaPure,59.33,72,5,S01,365.0
+P011,Poha 500 g,Staples & Grains,KisanGold,39.55,55,5,S01,270.0
+P012,Suji Rava 500 g,Staples & Grains,AnnaPure,36.61,48,5,S09,270.0
+P013,Sunflower Oil 1 L,Staples & Grains,DesiHarvest,113.81,165,5,S01,270.0
+P014,Groundnut Oil 1 L,Staples & Grains,KisanGold,153.94,215,5,S09,270.0
+P015,Turmeric Powder 200 g,Staples & Grains,AnnaPure,56.5,72,5,S01,365.0
 P016,Full Cream Milk 1 L,Dairy,GokulFresh,54.89,68,0,S02,4.0
 P017,Toned Milk 1 L,Dairy,PureMoo,42.3,56,0,S02,4.0
 P018,Double Toned Milk 500 ml,Dairy,DairyDelight,21.99,27,0,S02,4.0
-P019,Curd 400 g,Dairy,GokulFresh,33.98,40,5,S02,10.0
-P020,Curd 1 kg,Dairy,PureMoo,64.89,90,5,S02,10.0
-P021,Paneer 200 g,Dairy,DairyDelight,76.4,90,5,S02,21.0
-P022,Butter 100 g,Dairy,GokulFresh,48.24,58,5,S02,180.0
-P023,Butter 500 g,Dairy,PureMoo,212.97,275,5,S02,180.0
-P024,Ghee 500 ml,Dairy,DairyDelight,253.26,340,5,S02,365.0
-P025,Ghee 1 L,Dairy,GokulFresh,567.55,650,5,S02,365.0
-P026,Cheese Slices 200 g,Dairy,PureMoo,108.34,140,5,S02,180.0
-P027,Mozzarella Cheese 200 g,Dairy,DairyDelight,110.23,150,5,S02,120.0
-P028,Flavoured Milk 200 ml,Dairy,GokulFresh,22.06,30,18,S02,90.0
-P029,Sweet Lassi 200 ml,Dairy,PureMoo,21.39,25,5,S02,30.0
-P030,Buttermilk 200 ml,Dairy,DairyDelight,12.25,15,5,S02,15.0
-P031,Salted Chips 50 g,Snacks,CrunchTime,16.98,20,5,S03,120.0
-P032,Masala Chips 50 g,Snacks,MunchBox,16.74,20,5,S10,120.0
-P033,Aloo Bhujia 400 g,Snacks,SnackBazaar,88.64,110,5,S03,150.0
-P034,Moong Dal Namkeen 200 g,Snacks,CrunchTime,52.54,60,5,S10,150.0
-P035,Mixture 400 g,Snacks,MunchBox,78.06,100,5,S03,150.0
-P036,Cream Biscuits 120 g,Snacks,SnackBazaar,24.25,30,18,S10,180.0
-P037,Glucose Biscuits 200 g,Snacks,CrunchTime,21.32,25,18,S03,180.0
-P038,Marie Biscuits 250 g,Snacks,MunchBox,32.76,40,18,S10,180.0
-P039,Choco Cookies 150 g,Snacks,SnackBazaar,42.89,50,18,S03,180.0
-P040,Milk Chocolate Bar 40 g,Snacks,CrunchTime,36.56,45,18,S10,270.0
-P041,Chocolate Bar 100 g,Snacks,MunchBox,91.6,110,18,S03,270.0
-P042,Instant Noodles Masala 70 g,Snacks,SnackBazaar,10.18,14,5,S10,270.0
-P043,Popcorn 60 g,Snacks,CrunchTime,22.69,30,5,S03,120.0
-P044,Roasted Peanuts 200 g,Snacks,MunchBox,42.15,55,5,S10,150.0
-P045,Namkeen Sev 200 g,Snacks,SnackBazaar,32.97,45,5,S03,150.0
-P046,Mango Drink 600 ml,Beverages,FreshSip,34.08,45,18,S04,180.0
-P047,Mango Drink 200 ml,Beverages,TropiPure,14.72,20,18,S04,180.0
-P048,Packaged Water 1 L,Beverages,ChaiChamp,15.29,20,18,S04,365.0
-P049,Packaged Water 2 L,Beverages,FreshSip,28.76,35,18,S04,365.0
-P050,Orange Juice 1 L,Beverages,TropiPure,93.4,120,5,S04,180.0
-P051,Apple Juice 1 L,Beverages,ChaiChamp,97.4,125,5,S04,180.0
-P052,Tea Powder 500 g,Beverages,FreshSip,188.38,250,5,S04,365.0
-P053,Tea Powder 250 g,Beverages,TropiPure,99.15,130,5,S04,365.0
-P054,Instant Coffee 100 g,Beverages,ChaiChamp,252.26,290,18,S04,540.0
-P055,Instant Coffee 50 g,Beverages,FreshSip,131.79,160,18,S04,540.0
-P056,Green Tea Bags 25 pcs,Beverages,TropiPure,106.27,130,5,S04,540.0
-P057,Lemon Drink 600 ml,Beverages,ChaiChamp,29.9,40,18,S04,180.0
-P058,Coconut Water 200 ml,Beverages,FreshSip,33.47,40,5,S04,120.0
-P059,Malt Health Drink 500 g,Beverages,TropiPure,201.46,270,18,S04,365.0
-P060,Rose Syrup 750 ml,Beverages,ChaiChamp,109.3,140,18,S04,365.0
-P061,Shampoo 340 ml,Personal Care,GlowUp,289.85,330,18,S05,
-P062,Conditioner 180 ml,Personal Care,PureSkin,197.38,240,18,S05,
-P063,Bathing Soap 4 pack,Personal Care,FreshNaturals,121.37,150,18,S05,
-P064,Body Wash 250 ml,Personal Care,GlowUp,207.38,250,18,S05,
-P065,Toothpaste 200 g,Personal Care,PureSkin,102.58,120,18,S05,
-P066,Toothbrush 3 pack,Personal Care,FreshNaturals,75.97,90,18,S05,
-P067,Face Wash 100 ml,Personal Care,GlowUp,136.2,180,18,S05,
-P068,Moisturiser 200 ml,Personal Care,PureSkin,188.54,260,18,S05,
-P069,Sunscreen 50 g,Personal Care,FreshNaturals,269.67,350,18,S05,
-P070,Hair Oil 200 ml,Personal Care,GlowUp,83.91,110,18,S05,
-P071,Deodorant 150 ml,Personal Care,PureSkin,165.83,220,18,S05,
-P072,Hand Wash 250 ml,Personal Care,FreshNaturals,86.22,99,18,S05,
-P073,Sanitary Pads 20 pcs,Personal Care,GlowUp,154.84,180,5,S05,
-P074,Razor 5 pack,Personal Care,PureSkin,69.33,90,18,S05,
-P075,Talcum Powder 200 g,Personal Care,FreshNaturals,107.23,130,18,S05,
-P076,Detergent Powder 1 kg,Household,HomeShine,101.83,130,18,S06,
-P077,Liquid Detergent 1 L,Household,CleanKaro,199.26,230,18,S06,
-P078,Dishwash Liquid 500 ml,Household,SparkleCo,87.28,110,18,S06,
-P079,Dishwash Bar 3 pack,Household,HomeShine,45.74,60,18,S06,
-P080,Floor Cleaner 1 L,Household,CleanKaro,144.3,190,18,S06,
-P081,Toilet Cleaner 500 ml,Household,SparkleCo,85.03,105,18,S06,
-P082,Glass Cleaner 500 ml,Household,HomeShine,91.44,120,18,S06,
-P083,Phenyl 1 L,Household,CleanKaro,97.62,120,18,S06,
-P084,Garbage Bags 30 pcs,Household,SparkleCo,86.37,100,18,S06,
-P085,Aluminium Foil 9 m,Household,HomeShine,58.79,75,18,S06,
-P086,Tissue Rolls 4 pack,Household,CleanKaro,90.61,120,18,S06,
-P087,Agarbatti 100 sticks,Household,SparkleCo,52.78,60,5,S06,
-P088,Matchbox 10 pack,Household,HomeShine,16.03,20,5,S06,
-P089,Mosquito Repellent Refill 45 ml,Household,CleanKaro,58.76,80,18,S06,
-P090,Scrub Pad 3 pack,Household,SparkleCo,32.74,45,18,S06,
-P091,Tomato Ketchup 500 g,Packaged Foods,TastyPantry,81.13,110,5,S07,365.0
-P092,Mixed Fruit Jam 500 g,Packaged Foods,SwadKitchen,131.26,160,18,S07,365.0
-P093,Peanut Butter 340 g,Packaged Foods,HomeChef,160.88,190,18,S07,365.0
-P094,Pasta 500 g,Packaged Foods,TastyPantry,74.82,95,5,S07,540.0
-P095,Instant Soup Pack,Packaged Foods,SwadKitchen,21.9,30,18,S07,365.0
-P096,Corn Flakes 475 g,Packaged Foods,HomeChef,148.4,190,18,S07,270.0
-P097,Oats 1 kg,Packaged Foods,TastyPantry,167.08,190,5,S07,365.0
-P098,Muesli 500 g,Packaged Foods,SwadKitchen,201.16,250,18,S07,270.0
-P099,Mango Pickle 400 g,Packaged Foods,HomeChef,105.04,120,5,S07,365.0
-P100,Tomato Puree 200 g,Packaged Foods,TastyPantry,47.17,55,5,S07,270.0
-P101,Ready Mix Idli 500 g,Packaged Foods,SwadKitchen,64.97,90,5,S07,270.0
-P102,Gulab Jamun Mix 175 g,Packaged Foods,HomeChef,66.83,80,18,S07,270.0
-P103,Honey 500 g,Packaged Foods,TastyPantry,182.4,220,5,S07,540.0
-P104,Vermicelli 400 g,Packaged Foods,SwadKitchen,40.3,50,5,S07,365.0
-P105,Papad 200 g,Packaged Foods,HomeChef,45.76,60,5,S07,270.0
+P019,Curd 400 g,Dairy,GokulFresh,32.36,40,5,S02,10.0
+P020,Curd 1 kg,Dairy,PureMoo,61.8,90,5,S02,10.0
+P021,Paneer 200 g,Dairy,DairyDelight,72.77,90,5,S02,21.0
+P022,Butter 100 g,Dairy,GokulFresh,45.94,58,5,S02,180.0
+P023,Butter 500 g,Dairy,PureMoo,202.83,275,5,S02,180.0
+P024,Ghee 500 ml,Dairy,DairyDelight,241.2,340,5,S02,365.0
+P025,Ghee 1 L,Dairy,GokulFresh,540.52,650,5,S02,365.0
+P026,Cheese Slices 200 g,Dairy,PureMoo,103.18,140,5,S02,180.0
+P027,Mozzarella Cheese 200 g,Dairy,DairyDelight,104.98,150,5,S02,120.0
+P028,Flavoured Milk 200 ml,Dairy,GokulFresh,18.7,30,18,S02,90.0
+P029,Sweet Lassi 200 ml,Dairy,PureMoo,20.37,25,5,S02,30.0
+P030,Buttermilk 200 ml,Dairy,DairyDelight,11.67,15,5,S02,15.0
+P031,Salted Chips 50 g,Snacks,CrunchTime,16.17,20,5,S03,120.0
+P032,Masala Chips 50 g,Snacks,MunchBox,15.94,20,5,S10,120.0
+P033,Aloo Bhujia 400 g,Snacks,SnackBazaar,84.42,110,5,S03,150.0
+P034,Moong Dal Namkeen 200 g,Snacks,CrunchTime,50.04,60,5,S10,150.0
+P035,Mixture 400 g,Snacks,MunchBox,74.34,100,5,S03,150.0
+P036,Cream Biscuits 120 g,Snacks,SnackBazaar,20.55,30,18,S10,180.0
+P037,Glucose Biscuits 200 g,Snacks,CrunchTime,18.07,25,18,S03,180.0
+P038,Marie Biscuits 250 g,Snacks,MunchBox,27.76,40,18,S10,180.0
+P039,Choco Cookies 150 g,Snacks,SnackBazaar,36.35,50,18,S03,180.0
+P040,Milk Chocolate Bar 40 g,Snacks,CrunchTime,30.98,45,18,S10,270.0
+P041,Chocolate Bar 100 g,Snacks,MunchBox,77.63,110,18,S03,270.0
+P042,Instant Noodles Masala 70 g,Snacks,SnackBazaar,9.7,14,5,S10,270.0
+P043,Popcorn 60 g,Snacks,CrunchTime,21.61,30,5,S03,120.0
+P044,Roasted Peanuts 200 g,Snacks,MunchBox,40.14,55,5,S10,150.0
+P045,Namkeen Sev 200 g,Snacks,SnackBazaar,31.4,45,5,S03,150.0
+P046,Mango Drink 600 ml,Beverages,FreshSip,28.88,45,18,S04,180.0
+P047,Mango Drink 200 ml,Beverages,TropiPure,12.48,20,18,S04,180.0
+P048,Packaged Water 1 L,Beverages,ChaiChamp,12.96,20,18,S04,365.0
+P049,Packaged Water 2 L,Beverages,FreshSip,24.37,35,18,S04,365.0
+P050,Orange Juice 1 L,Beverages,TropiPure,88.96,120,5,S04,180.0
+P051,Apple Juice 1 L,Beverages,ChaiChamp,92.77,125,5,S04,180.0
+P052,Tea Powder 500 g,Beverages,FreshSip,179.41,250,5,S04,365.0
+P053,Tea Powder 250 g,Beverages,TropiPure,94.43,130,5,S04,365.0
+P054,Instant Coffee 100 g,Beverages,ChaiChamp,213.78,290,18,S04,540.0
+P055,Instant Coffee 50 g,Beverages,FreshSip,111.69,160,18,S04,540.0
+P056,Green Tea Bags 25 pcs,Beverages,TropiPure,101.21,130,5,S04,540.0
+P057,Lemon Drink 600 ml,Beverages,ChaiChamp,25.33,40,18,S04,180.0
+P058,Coconut Water 200 ml,Beverages,FreshSip,31.87,40,5,S04,120.0
+P059,Malt Health Drink 500 g,Beverages,TropiPure,170.73,270,18,S04,365.0
+P060,Rose Syrup 750 ml,Beverages,ChaiChamp,92.63,140,18,S04,365.0
+P061,Shampoo 340 ml,Personal Care,GlowUp,245.63,330,18,S05,
+P062,Conditioner 180 ml,Personal Care,PureSkin,167.27,240,18,S05,
+P063,Bathing Soap 4 pack,Personal Care,FreshNaturals,102.85,150,18,S05,
+P064,Body Wash 250 ml,Personal Care,GlowUp,175.75,250,18,S05,
+P065,Toothpaste 200 g,Personal Care,PureSkin,86.93,120,18,S05,
+P066,Toothbrush 3 pack,Personal Care,FreshNaturals,64.39,90,18,S05,
+P067,Face Wash 100 ml,Personal Care,GlowUp,115.42,180,18,S05,
+P068,Moisturiser 200 ml,Personal Care,PureSkin,159.78,260,18,S05,
+P069,Sunscreen 50 g,Personal Care,FreshNaturals,228.53,350,18,S05,
+P070,Hair Oil 200 ml,Personal Care,GlowUp,71.11,110,18,S05,
+P071,Deodorant 150 ml,Personal Care,PureSkin,140.53,220,18,S05,
+P072,Hand Wash 250 ml,Personal Care,FreshNaturals,73.06,99,18,S05,
+P073,Sanitary Pads 20 pcs,Personal Care,GlowUp,147.47,180,5,S05,
+P074,Razor 5 pack,Personal Care,PureSkin,58.76,90,18,S05,
+P075,Talcum Powder 200 g,Personal Care,FreshNaturals,90.88,130,18,S05,
+P076,Detergent Powder 1 kg,Household,HomeShine,86.3,130,18,S06,
+P077,Liquid Detergent 1 L,Household,CleanKaro,168.86,230,18,S06,
+P078,Dishwash Liquid 500 ml,Household,SparkleCo,73.96,110,18,S06,
+P079,Dishwash Bar 3 pack,Household,HomeShine,38.77,60,18,S06,
+P080,Floor Cleaner 1 L,Household,CleanKaro,122.29,190,18,S06,
+P081,Toilet Cleaner 500 ml,Household,SparkleCo,72.06,105,18,S06,
+P082,Glass Cleaner 500 ml,Household,HomeShine,77.5,120,18,S06,
+P083,Phenyl 1 L,Household,CleanKaro,82.73,120,18,S06,
+P084,Garbage Bags 30 pcs,Household,SparkleCo,73.19,100,18,S06,
+P085,Aluminium Foil 9 m,Household,HomeShine,49.82,75,18,S06,
+P086,Tissue Rolls 4 pack,Household,CleanKaro,76.79,120,18,S06,
+P087,Agarbatti 100 sticks,Household,SparkleCo,50.26,60,5,S06,
+P088,Matchbox 10 pack,Household,HomeShine,15.27,20,5,S06,
+P089,Mosquito Repellent Refill 45 ml,Household,CleanKaro,49.8,80,18,S06,
+P090,Scrub Pad 3 pack,Household,SparkleCo,27.75,45,18,S06,
+P091,Tomato Ketchup 500 g,Packaged Foods,TastyPantry,77.27,110,5,S07,365.0
+P092,Mixed Fruit Jam 500 g,Packaged Foods,SwadKitchen,111.24,160,18,S07,365.0
+P093,Peanut Butter 340 g,Packaged Foods,HomeChef,136.34,190,18,S07,365.0
+P094,Pasta 500 g,Packaged Foods,TastyPantry,71.25,95,5,S07,540.0
+P095,Instant Soup Pack,Packaged Foods,SwadKitchen,18.56,30,18,S07,365.0
+P096,Corn Flakes 475 g,Packaged Foods,HomeChef,125.76,190,18,S07,270.0
+P097,Oats 1 kg,Packaged Foods,TastyPantry,159.13,190,5,S07,365.0
+P098,Muesli 500 g,Packaged Foods,SwadKitchen,170.48,250,18,S07,270.0
+P099,Mango Pickle 400 g,Packaged Foods,HomeChef,100.04,120,5,S07,365.0
+P100,Tomato Puree 200 g,Packaged Foods,TastyPantry,44.93,55,5,S07,270.0
+P101,Ready Mix Idli 500 g,Packaged Foods,SwadKitchen,61.87,90,5,S07,270.0
+P102,Gulab Jamun Mix 175 g,Packaged Foods,HomeChef,56.63,80,18,S07,270.0
+P103,Honey 500 g,Packaged Foods,TastyPantry,173.71,220,5,S07,540.0
+P104,Vermicelli 400 g,Packaged Foods,SwadKitchen,38.38,50,5,S07,365.0
+P105,Papad 200 g,Packaged Foods,HomeChef,43.58,60,5,S07,270.0
 P106,Notebook 172 pages,Stationery,PaperCraft,49.35,60,0,S08,
 P107,Notebook 6 pack,Stationery,WriteWell,243.49,330,0,S08,
-P108,Ball Pen Blue 10 pack,Stationery,SchoolMate,78.96,100,18,S08,
-P109,Gel Pen 5 pack,Stationery,PaperCraft,59.44,75,18,S08,
-P110,Pencil 10 pack,Stationery,WriteWell,43.63,50,18,S08,
-P111,Eraser & Sharpener Set,Stationery,SchoolMate,25.8,30,18,S08,
-P112,Geometry Box,Stationery,PaperCraft,99.08,130,18,S08,
-P113,A4 Paper 500 sheets,Stationery,WriteWell,304.04,380,18,S08,
-P114,Sticky Notes 100 sheets,Stationery,SchoolMate,44.92,60,18,S08,
-P115,Highlighter 4 pack,Stationery,PaperCraft,103.92,120,18,S08,
-P116,Permanent Marker 2 pack,Stationery,WriteWell,68.74,80,18,S08,
-P117,Glue Stick,Stationery,SchoolMate,19.19,25,18,S08,
-P118,Cello Tape,Stationery,PaperCraft,32.89,40,18,S08,
-P119,Stapler,Stationery,WriteWell,98.09,120,18,S08,
+P108,Ball Pen Blue 10 pack,Stationery,SchoolMate,66.91,100,18,S08,
+P109,Gel Pen 5 pack,Stationery,PaperCraft,50.38,75,18,S08,
+P110,Pencil 10 pack,Stationery,WriteWell,36.98,50,18,S08,
+P111,Eraser & Sharpener Set,Stationery,SchoolMate,21.87,30,18,S08,
+P112,Geometry Box,Stationery,PaperCraft,83.96,130,18,S08,
+P113,A4 Paper 500 sheets,Stationery,WriteWell,257.66,380,18,S08,
+P114,Sticky Notes 100 sheets,Stationery,SchoolMate,38.06,60,18,S08,
+P115,Highlighter 4 pack,Stationery,PaperCraft,88.07,120,18,S08,
+P116,Permanent Marker 2 pack,Stationery,WriteWell,58.26,80,18,S08,
+P117,Glue Stick,Stationery,SchoolMate,16.27,25,18,S08,
+P118,Cello Tape,Stationery,PaperCraft,27.87,40,18,S08,
+P119,Stapler,Stationery,WriteWell,83.13,120,18,S08,
 P120,Drawing Book,Stationery,SchoolMate,52.11,70,0,S08,
