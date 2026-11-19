@@ -1,0 +1,9 @@
+product_id,sku_name,category,unit_cost,last_sale_date,units_in_stock,days_since_last_sale,stock_value_cost
+P060,Rose Syrup 750 ml,Beverages,92.63,2025-12-31,1228,90,113750.0
+P024,Ghee 500 ml,Dairy,241.2,2025-12-31,458,90,110470.0
+P069,Sunscreen 50 g,Personal Care,228.53,2025-12-31,471,90,107638.0
+P092,Mixed Fruit Jam 500 g,Packaged Foods,111.24,2025-12-31,252,90,28032.0
+P009,Sugar 1 kg,Staples & Grains,39.0,2025-12-31,629,90,24531.0
+P079,Dishwash Bar 3 pack,Household,38.77,2025-12-31,553,90,21440.0
+P097,Oats 1 kg,Packaged Foods,159.13,2025-12-31,98,90,15595.0
+P005,Moong Dal 1 kg,Staples & Grains,119.69,2025-12-31,96,90,11490.0
