@@ -65,7 +65,7 @@ low_d = np.select([scenario == "normal", scenario == "overstock", scenario == "d
 high_d = np.select([scenario == "normal", scenario == "overstock", scenario == "dead"],
                    [lead * 2 + 2, 31, 151], default=36)
 days_ago = rng.integers(low_d, high_d)
-inv["last_restock_date"] = (SNAP - pd.to_timedelta(days_ago, unit="D")).dt.strftime("%Y-%m-%d")
+inv["last_restock_date"] = (SNAP - pd.to_timedelta(days_ago, unit="D")).strftime("%Y-%m-%d")
 
 inv["stock_on_hand"] = stock
 inv["reorder_level"] = reorder
