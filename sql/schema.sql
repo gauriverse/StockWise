@@ -66,8 +66,8 @@ SELECT
     CASE WHEN CAST(strftime('%m', s.sale_date) AS INTEGER) >= 4
          THEN strftime('%Y', s.sale_date) || '-' ||
               substr(CAST(CAST(strftime('%Y', s.sale_date) AS INTEGER) + 1 AS TEXT), 3, 2)
-         ELSE CAST(CAST(strftime('%Y', s.sale_date) AS INTEGER) - 1 AS TEXT) || '-' ||
-              strftime('%y', s.sale_date)
+        ELSE CAST(CAST(strftime('%Y', s.sale_date) AS INTEGER) - 1 AS TEXT) || '-' ||
+              substr(strftime('%Y', s.sale_date), 3, 2)
     END AS fy
 FROM sales s
 JOIN products p  ON p.product_id = s.product_id
