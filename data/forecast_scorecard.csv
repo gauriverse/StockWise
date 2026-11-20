@@ -1,0 +1,4 @@
+model,MAE (units/day),WAPE %,Bias %
+Repeat last week,142.6,10.0,-8.2
+8-week weekday average,140.6,9.8,-8.8
+Poisson GLM,44.4,3.1,0.2
