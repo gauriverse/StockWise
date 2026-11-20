@@ -202,6 +202,9 @@ Replace the CSVs in `data/` (suppliers, stores, products, sales, inventory) with
 - The forecast range reflects day-to-day randomness only, not uncertainty in the fitted coefficients. The yearly trend is extrapolated.
 - Order recommendations ignore supplier minimum order quantities and pack sizes, and use an assumed 7-day review period. They are for a manager to review, not automatic purchasing.
 - `invoice_id` grouping is synthetic.
+- **ABC concentration is moderate**: about half of SKUs make up class A. This reflects the synthetic demand mix and shouldn't be read as a general retail finding.
+- **The "too low" reorder-level count is partly built into the data**: the generated levels exclude safety stock while the calculated reorder points include it.
+- **The forecast model has no month-specific category effects** (only a summer flag), so Beverages and Stationery are forecast less accurately than other categories.
 
 ## Tools
 Python (pandas, NumPy, statsmodels, matplotlib), SQL (SQLite, CTEs, window functions, views), Excel (PivotTables, slicers, conditional formatting), Git/GitHub.

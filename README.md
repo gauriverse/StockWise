@@ -148,16 +148,14 @@ Pivot tables, KPI cards, charts and slicers (financial year, region, category) b
 
 ## Project structure
 
-```text
 StockWise/
-├── data/                 # Generated CSVs and analysis outputs
-├── sql/                  # schema.sql, validation.sql, analysis_queries.sql
-├── scripts/              # 01-06: generate data, load database, export Excel, build README
-├── notebooks/            # 01_cleaning_eda, 02_analytics, 03_forecasting
-├── excel/                # StockWise_Dashboard.xlsx
-├── images/               # Charts and screenshots
-└── README.md             # Project documentation
-```
+├── data/ generated CSVs and analysis outputs
+├── sql/ schema.sql, validation.sql, analysis_queries.sql
+├── scripts/ 01-06: generate data, load database, export Excel, build README
+├── notebooks/ 01_cleaning_eda, 02_analytics, 03_forecasting
+├── excel/ StockWise_Dashboard.xlsx
+├── images/ charts and screenshots
+└── README.md
 
 ## How to run
 
@@ -189,6 +187,9 @@ Replace the CSVs in `data/` (suppliers, stores, products, sales, inventory) with
 - The forecast range reflects day-to-day randomness only, not uncertainty in the fitted coefficients. The yearly trend is extrapolated.
 - Order recommendations ignore supplier minimum order quantities and pack sizes, and use an assumed 7-day review period. They are for a manager to review, not automatic purchasing.
 - `invoice_id` grouping is synthetic.
+- **ABC concentration is moderate**: about half of SKUs make up class A. This reflects the synthetic demand mix and shouldn't be read as a general retail finding.
+- **The "too low" reorder-level count is partly built into the data**: the generated levels exclude safety stock while the calculated reorder points include it.
+- **The forecast model has no month-specific category effects** (only a summer flag), so Beverages and Stationery are forecast less accurately than other categories.
 
 ## Tools
 
