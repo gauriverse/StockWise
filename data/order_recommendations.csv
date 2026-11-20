@@ -1,0 +1,721 @@
+store_id,city,product_id,sku_name,category,status,stock_on_hand,reorder_point,safety_stock,forecast_daily,target_stock,order_qty,order_value_cost
+ST01,Pune,P001,Basmati Rice 5 kg,Staples & Grains,Reorder now,2,9.0,4.0,0.9,15.0,13,6312.0
+ST01,Pune,P002,Sona Masoori Rice 10 kg,Staples & Grains,Reorder now,6,8.0,4.0,0.36,10.0,4,1765.0
+ST01,Pune,P003,Whole Wheat Atta 5 kg,Staples & Grains,OK,128,14.0,5.0,1.61,25.0,0,0.0
+ST01,Pune,P004,Toor Dal 1 kg,Staples & Grains,Reorder now,7,31.0,9.0,2.34,47.0,40,5182.0
+ST01,Pune,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,27,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P006,Chana Dal 1 kg,Staples & Grains,Reorder now,8,9.0,4.0,0.48,12.0,4,347.0
+ST01,Pune,P007,Masoor Dal 1 kg,Staples & Grains,OK,219,13.0,5.0,1.54,24.0,0,0.0
+ST01,Pune,P008,Besan 500 g,Staples & Grains,OK,117,15.0,6.0,0.93,21.0,0,0.0
+ST01,Pune,P009,Sugar 1 kg,Staples & Grains,No recent demand,140,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P010,Iodised Salt 1 kg,Staples & Grains,OK,29,16.0,6.0,1.0,22.0,0,0.0
+ST01,Pune,P011,Poha 500 g,Staples & Grains,OK,41,22.0,7.0,2.88,42.0,1,40.0
+ST01,Pune,P012,Suji Rava 500 g,Staples & Grains,OK,100,42.0,10.0,3.36,64.0,0,0.0
+ST01,Pune,P013,Sunflower Oil 1 L,Staples & Grains,OK,69,10.0,4.0,1.0,16.0,0,0.0
+ST01,Pune,P014,Groundnut Oil 1 L,Staples & Grains,Reorder now,4,31.0,9.0,2.33,47.0,43,6619.0
+ST01,Pune,P015,Turmeric Powder 200 g,Staples & Grains,OK,31,18.0,6.0,2.14,32.0,1,56.0
+ST01,Pune,P016,Full Cream Milk 1 L,Dairy,Reorder now,5,8.0,4.0,1.46,9.0,4,220.0
+ST01,Pune,P017,Toned Milk 1 L,Dairy,Reorder now,14,15.0,6.0,3.96,19.0,5,212.0
+ST01,Pune,P018,Double Toned Milk 500 ml,Dairy,Reorder now,6,8.0,4.0,1.7,10.0,4,88.0
+ST01,Pune,P019,Curd 400 g,Dairy,OK,57,23.0,8.0,6.67,62.0,5,162.0
+ST01,Pune,P020,Curd 1 kg,Dairy,Reorder now,5,9.0,4.0,2.29,23.0,18,1112.0
+ST01,Pune,P021,Paneer 200 g,Dairy,OK,25,9.0,4.0,2.08,23.0,0,0.0
+ST01,Pune,P022,Butter 100 g,Dairy,OK,209,6.0,3.0,1.36,16.0,0,0.0
+ST01,Pune,P023,Butter 500 g,Dairy,OK,50,16.0,6.0,4.65,48.0,0,0.0
+ST01,Pune,P024,Ghee 500 ml,Dairy,No recent demand,57,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P025,Ghee 1 L,Dairy,OK,19,5.0,3.0,0.84,11.0,0,0.0
+ST01,Pune,P026,Cheese Slices 200 g,Dairy,OK,12,8.0,4.0,1.45,18.0,6,619.0
+ST01,Pune,P027,Mozzarella Cheese 200 g,Dairy,OK,64,13.0,6.0,3.05,34.0,0,0.0
+ST01,Pune,P028,Flavoured Milk 200 ml,Dairy,Stocked out,0,19.0,7.0,5.22,54.0,54,1010.0
+ST01,Pune,P029,Sweet Lassi 200 ml,Dairy,OK,120,17.0,7.0,4.65,49.0,0,0.0
+ST01,Pune,P030,Buttermilk 200 ml,Dairy,OK,74,20.0,7.0,5.74,59.0,0,0.0
+ST01,Pune,P031,Salted Chips 50 g,Snacks,OK,325,103.0,22.0,18.97,231.0,0,0.0
+ST01,Pune,P032,Masala Chips 50 g,Snacks,OK,43,18.0,6.0,2.61,35.0,0,0.0
+ST01,Pune,P033,Aloo Bhujia 400 g,Snacks,OK,21,12.0,5.0,1.49,22.0,1,84.0
+ST01,Pune,P034,Moong Dal Namkeen 200 g,Snacks,OK,27,9.0,4.0,1.17,17.0,0,0.0
+ST01,Pune,P035,Mixture 400 g,Snacks,Reorder now,9,23.0,7.0,3.53,46.0,37,2751.0
+ST01,Pune,P036,Cream Biscuits 120 g,Snacks,OK,74,42.0,11.0,7.13,90.0,16,329.0
+ST01,Pune,P037,Glucose Biscuits 200 g,Snacks,Reorder now,6,21.0,8.0,2.98,41.0,35,632.0
+ST01,Pune,P038,Marie Biscuits 250 g,Snacks,OK,18,12.0,5.0,1.44,21.0,3,83.0
+ST01,Pune,P039,Choco Cookies 150 g,Snacks,Reorder now,8,13.0,6.0,1.45,22.0,14,509.0
+ST01,Pune,P040,Milk Chocolate Bar 40 g,Snacks,OK,53,30.0,9.0,4.81,62.0,9,279.0
+ST01,Pune,P041,Chocolate Bar 100 g,Snacks,OK,64,23.0,7.0,3.61,47.0,0,0.0
+ST01,Pune,P042,Instant Noodles Masala 70 g,Snacks,OK,68,32.0,9.0,5.4,69.0,1,10.0
+ST01,Pune,P043,Popcorn 60 g,Snacks,OK,21,13.0,5.0,1.73,25.0,4,86.0
+ST01,Pune,P044,Roasted Peanuts 200 g,Snacks,Stocked out,0,19.0,6.0,2.9,38.0,38,1525.0
+ST01,Pune,P045,Namkeen Sev 200 g,Snacks,OK,42,21.0,7.0,3.16,42.0,0,0.0
+ST01,Pune,P046,Mango Drink 600 ml,Beverages,OK,54,14.0,5.0,3.99,45.0,0,0.0
+ST01,Pune,P047,Mango Drink 200 ml,Beverages,OK,43,31.0,10.0,9.48,105.0,62,774.0
+ST01,Pune,P048,Packaged Water 1 L,Beverages,OK,54,18.0,6.0,5.34,60.0,6,78.0
+ST01,Pune,P049,Packaged Water 2 L,Beverages,OK,71,21.0,7.0,6.19,69.0,0,0.0
+ST01,Pune,P050,Orange Juice 1 L,Beverages,OK,13,10.0,4.0,2.76,32.0,19,1690.0
+ST01,Pune,P051,Apple Juice 1 L,Beverages,OK,139,12.0,5.0,2.98,35.0,0,0.0
+ST01,Pune,P052,Tea Powder 500 g,Beverages,OK,198,12.0,5.0,2.99,35.0,0,0.0
+ST01,Pune,P053,Tea Powder 250 g,Beverages,OK,14,5.0,3.0,0.85,12.0,0,0.0
+ST01,Pune,P054,Instant Coffee 100 g,Beverages,OK,23,8.0,4.0,1.55,20.0,0,0.0
+ST01,Pune,P055,Instant Coffee 50 g,Beverages,OK,9,7.0,3.0,1.42,18.0,9,1005.0
+ST01,Pune,P056,Green Tea Bags 25 pcs,Beverages,Reorder now,2,8.0,4.0,1.51,20.0,18,1822.0
+ST01,Pune,P057,Lemon Drink 600 ml,Beverages,OK,26,11.0,5.0,2.64,32.0,6,152.0
+ST01,Pune,P058,Coconut Water 200 ml,Beverages,OK,73,36.0,11.0,11.52,127.0,54,1721.0
+ST01,Pune,P059,Malt Health Drink 500 g,Beverages,OK,91,6.0,3.0,1.09,14.0,0,0.0
+ST01,Pune,P060,Rose Syrup 750 ml,Beverages,No recent demand,237,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P061,Shampoo 340 ml,Personal Care,Reorder now,3,3.0,2.0,0.14,4.0,1,246.0
+ST01,Pune,P062,Conditioner 180 ml,Personal Care,OK,7,6.0,3.0,0.48,10.0,3,502.0
+ST01,Pune,P063,Bathing Soap 4 pack,Personal Care,Reorder now,1,11.0,5.0,0.99,18.0,17,1748.0
+ST01,Pune,P064,Body Wash 250 ml,Personal Care,OK,57,11.0,5.0,0.92,17.0,0,0.0
+ST01,Pune,P065,Toothpaste 200 g,Personal Care,OK,37,15.0,6.0,1.43,25.0,0,0.0
+ST01,Pune,P066,Toothbrush 3 pack,Personal Care,Reorder now,3,17.0,6.0,1.69,28.0,25,1610.0
+ST01,Pune,P067,Face Wash 100 ml,Personal Care,OK,61,8.0,4.0,0.63,13.0,0,0.0
+ST01,Pune,P068,Moisturiser 200 ml,Personal Care,Reorder now,1,6.0,3.0,0.4,9.0,8,1278.0
+ST01,Pune,P069,Sunscreen 50 g,Personal Care,No recent demand,59,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P070,Hair Oil 200 ml,Personal Care,OK,13,9.0,4.0,0.73,14.0,1,71.0
+ST01,Pune,P071,Deodorant 150 ml,Personal Care,OK,27,5.0,3.0,0.22,6.0,0,0.0
+ST01,Pune,P072,Hand Wash 250 ml,Personal Care,Stocked out,0,6.0,3.0,0.34,8.0,8,584.0
+ST01,Pune,P073,Sanitary Pads 20 pcs,Personal Care,OK,44,6.0,3.0,0.34,8.0,0,0.0
+ST01,Pune,P074,Razor 5 pack,Personal Care,OK,15,14.0,5.0,1.48,25.0,10,588.0
+ST01,Pune,P075,Talcum Powder 200 g,Personal Care,Reorder now,1,10.0,4.0,0.96,17.0,16,1454.0
+ST01,Pune,P076,Detergent Powder 1 kg,Household,OK,33,12.0,5.0,1.41,22.0,0,0.0
+ST01,Pune,P077,Liquid Detergent 1 L,Household,Reorder now,5,6.0,3.0,0.48,9.0,4,675.0
+ST01,Pune,P078,Dishwash Liquid 500 ml,Household,OK,22,10.0,4.0,1.11,18.0,0,0.0
+ST01,Pune,P079,Dishwash Bar 3 pack,Household,No recent demand,125,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P080,Floor Cleaner 1 L,Household,OK,7,6.0,3.0,0.5,10.0,3,367.0
+ST01,Pune,P081,Toilet Cleaner 500 ml,Household,OK,88,10.0,4.0,1.16,18.0,0,0.0
+ST01,Pune,P082,Glass Cleaner 500 ml,Household,Reorder now,1,5.0,3.0,0.37,8.0,7,542.0
+ST01,Pune,P083,Phenyl 1 L,Household,OK,11,6.0,3.0,0.59,11.0,0,0.0
+ST01,Pune,P084,Garbage Bags 30 pcs,Household,OK,12,7.0,3.0,0.64,11.0,0,0.0
+ST01,Pune,P085,Aluminium Foil 9 m,Household,OK,8,6.0,3.0,0.42,9.0,1,50.0
+ST01,Pune,P086,Tissue Rolls 4 pack,Household,OK,78,11.0,5.0,1.23,20.0,0,0.0
+ST01,Pune,P087,Agarbatti 100 sticks,Household,OK,101,9.0,4.0,0.83,15.0,0,0.0
+ST01,Pune,P088,Matchbox 10 pack,Household,OK,36,13.0,5.0,1.62,25.0,0,0.0
+ST01,Pune,P089,Mosquito Repellent Refill 45 ml,Household,OK,26,13.0,5.0,1.52,24.0,0,0.0
+ST01,Pune,P090,Scrub Pad 3 pack,Household,OK,89,11.0,4.0,1.43,22.0,0,0.0
+ST01,Pune,P091,Tomato Ketchup 500 g,Packaged Foods,OK,236,18.0,6.0,1.57,29.0,0,0.0
+ST01,Pune,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,35,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P093,Peanut Butter 340 g,Packaged Foods,OK,35,9.0,4.0,0.53,12.0,0,0.0
+ST01,Pune,P094,Pasta 500 g,Packaged Foods,OK,20,10.0,4.0,0.72,15.0,0,0.0
+ST01,Pune,P095,Instant Soup Pack,Packaged Foods,Reorder now,7,8.0,4.0,0.45,11.0,4,74.0
+ST01,Pune,P096,Corn Flakes 475 g,Packaged Foods,OK,7,5.0,3.0,0.24,7.0,0,0.0
+ST01,Pune,P097,Oats 1 kg,Packaged Foods,No recent demand,32,0.0,0.0,0.0,0.0,0,0.0
+ST01,Pune,P098,Muesli 500 g,Packaged Foods,OK,9,7.0,3.0,0.44,10.0,1,170.0
+ST01,Pune,P099,Mango Pickle 400 g,Packaged Foods,Reorder now,18,18.0,7.0,1.39,27.0,9,900.0
+ST01,Pune,P100,Tomato Puree 200 g,Packaged Foods,Reorder now,8,9.0,4.0,0.55,12.0,4,180.0
+ST01,Pune,P101,Ready Mix Idli 500 g,Packaged Foods,Reorder now,3,13.0,5.0,1.0,20.0,17,1052.0
+ST01,Pune,P102,Gulab Jamun Mix 175 g,Packaged Foods,Reorder now,4,33.0,9.0,3.06,52.0,48,2718.0
+ST01,Pune,P103,Honey 500 g,Packaged Foods,OK,10,9.0,4.0,0.57,12.0,2,347.0
+ST01,Pune,P104,Vermicelli 400 g,Packaged Foods,OK,32,25.0,8.0,2.19,39.0,7,269.0
+ST01,Pune,P105,Papad 200 g,Packaged Foods,OK,15,9.0,4.0,0.58,13.0,0,0.0
+ST01,Pune,P106,Notebook 172 pages,Stationery,Reorder now,4,6.0,3.0,0.73,14.0,10,494.0
+ST01,Pune,P107,Notebook 6 pack,Stationery,Reorder now,3,4.0,2.0,0.28,7.0,4,974.0
+ST01,Pune,P108,Ball Pen Blue 10 pack,Stationery,OK,8,6.0,3.0,0.66,13.0,5,335.0
+ST01,Pune,P109,Gel Pen 5 pack,Stationery,OK,25,15.0,6.0,2.4,42.0,17,856.0
+ST01,Pune,P110,Pencil 10 pack,Stationery,Reorder now,3,4.0,2.0,0.28,7.0,4,148.0
+ST01,Pune,P111,Eraser & Sharpener Set,Stationery,OK,27,13.0,5.0,2.08,37.0,10,219.0
+ST01,Pune,P112,Geometry Box,Stationery,Reorder now,8,9.0,4.0,1.24,23.0,15,1259.0
+ST01,Pune,P113,A4 Paper 500 sheets,Stationery,Reorder now,5,5.0,3.0,0.49,11.0,6,1546.0
+ST01,Pune,P114,Sticky Notes 100 sheets,Stationery,Reorder now,3,4.0,2.0,0.28,7.0,4,152.0
+ST01,Pune,P115,Highlighter 4 pack,Stationery,OK,15,10.0,4.0,1.37,25.0,10,881.0
+ST01,Pune,P116,Permanent Marker 2 pack,Stationery,Reorder now,1,6.0,3.0,0.56,12.0,11,641.0
+ST01,Pune,P117,Glue Stick,Stationery,Reorder now,9,11.0,5.0,1.52,28.0,19,309.0
+ST01,Pune,P118,Cello Tape,Stationery,Reorder now,8,10.0,4.0,1.41,26.0,18,502.0
+ST01,Pune,P119,Stapler,Stationery,OK,39,20.0,6.0,3.49,59.0,20,1663.0
+ST01,Pune,P120,Drawing Book,Stationery,OK,9,8.0,4.0,0.92,18.0,9,469.0
+ST02,Mumbai,P001,Basmati Rice 5 kg,Staples & Grains,Stocked out,0,12.0,5.0,1.24,20.0,20,9711.0
+ST02,Mumbai,P002,Sona Masoori Rice 10 kg,Staples & Grains,Reorder now,5,6.0,3.0,0.29,8.0,3,1324.0
+ST02,Mumbai,P003,Whole Wheat Atta 5 kg,Staples & Grains,OK,39,18.0,6.0,2.21,33.0,0,0.0
+ST02,Mumbai,P004,Toor Dal 1 kg,Staples & Grains,OK,47,41.0,9.0,3.37,63.0,16,2073.0
+ST02,Mumbai,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,21,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P006,Chana Dal 1 kg,Staples & Grains,OK,11,10.0,4.0,0.62,14.0,3,260.0
+ST02,Mumbai,P007,Masoor Dal 1 kg,Staples & Grains,OK,48,17.0,6.0,2.12,32.0,0,0.0
+ST02,Mumbai,P008,Besan 500 g,Staples & Grains,Reorder now,10,19.0,6.0,1.33,28.0,18,1069.0
+ST02,Mumbai,P009,Sugar 1 kg,Staples & Grains,No recent demand,102,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P010,Iodised Salt 1 kg,Staples & Grains,Reorder now,4,20.0,7.0,1.35,29.0,25,507.0
+ST02,Mumbai,P011,Poha 500 g,Staples & Grains,OK,481,30.0,8.0,4.1,58.0,0,0.0
+ST02,Mumbai,P012,Suji Rava 500 g,Staples & Grains,OK,95,51.0,11.0,4.28,80.0,0,0.0
+ST02,Mumbai,P013,Sunflower Oil 1 L,Staples & Grains,OK,18,13.0,5.0,1.48,23.0,5,569.0
+ST02,Mumbai,P014,Groundnut Oil 1 L,Staples & Grains,OK,102,45.0,12.0,3.49,68.0,0,0.0
+ST02,Mumbai,P015,Turmeric Powder 200 g,Staples & Grains,OK,223,21.0,7.0,2.65,39.0,0,0.0
+ST02,Mumbai,P016,Full Cream Milk 1 L,Dairy,Reorder now,5,8.0,4.0,1.68,10.0,5,274.0
+ST02,Mumbai,P017,Toned Milk 1 L,Dairy,Reorder now,17,18.0,7.0,4.91,23.0,6,254.0
+ST02,Mumbai,P018,Double Toned Milk 500 ml,Dairy,Reorder now,8,10.0,4.0,2.39,12.0,4,88.0
+ST02,Mumbai,P019,Curd 400 g,Dairy,OK,71,27.0,9.0,8.3,76.0,5,162.0
+ST02,Mumbai,P020,Curd 1 kg,Dairy,Reorder now,9,12.0,5.0,2.96,29.0,20,1236.0
+ST02,Mumbai,P021,Paneer 200 g,Dairy,OK,50,11.0,5.0,2.77,30.0,0,0.0
+ST02,Mumbai,P022,Butter 100 g,Dairy,OK,14,10.0,5.0,2.12,25.0,11,505.0
+ST02,Mumbai,P023,Butter 500 g,Dairy,OK,108,20.0,7.0,5.74,59.0,0,0.0
+ST02,Mumbai,P024,Ghee 500 ml,Dairy,No recent demand,139,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P025,Ghee 1 L,Dairy,OK,14,6.0,3.0,1.05,13.0,0,0.0
+ST02,Mumbai,P026,Cheese Slices 200 g,Dairy,Stocked out,0,8.0,4.0,1.77,20.0,20,2064.0
+ST02,Mumbai,P027,Mozzarella Cheese 200 g,Dairy,Stocked out,0,14.0,5.0,3.92,41.0,41,4304.0
+ST02,Mumbai,P028,Flavoured Milk 200 ml,Dairy,OK,58,21.0,7.0,6.17,63.0,5,94.0
+ST02,Mumbai,P029,Sweet Lassi 200 ml,Dairy,Reorder now,2,22.0,7.0,6.64,67.0,65,1324.0
+ST02,Mumbai,P030,Buttermilk 200 ml,Dairy,OK,94,23.0,7.0,7.33,73.0,0,0.0
+ST02,Mumbai,P031,Salted Chips 50 g,Snacks,OK,295,136.0,26.0,25.77,310.0,15,243.0
+ST02,Mumbai,P032,Masala Chips 50 g,Snacks,Reorder now,14,23.0,8.0,3.41,46.0,32,510.0
+ST02,Mumbai,P033,Aloo Bhujia 400 g,Snacks,Stocked out,0,14.0,6.0,1.86,27.0,27,2279.0
+ST02,Mumbai,P034,Moong Dal Namkeen 200 g,Snacks,OK,136,14.0,6.0,1.7,25.0,0,0.0
+ST02,Mumbai,P035,Mixture 400 g,Snacks,OK,107,27.0,8.0,4.4,57.0,0,0.0
+ST02,Mumbai,P036,Cream Biscuits 120 g,Snacks,OK,170,58.0,14.0,10.22,127.0,0,0.0
+ST02,Mumbai,P037,Glucose Biscuits 200 g,Snacks,OK,72,24.0,8.0,3.74,50.0,0,0.0
+ST02,Mumbai,P038,Marie Biscuits 250 g,Snacks,Stocked out,0,13.0,5.0,1.8,25.0,25,694.0
+ST02,Mumbai,P039,Choco Cookies 150 g,Snacks,OK,35,13.0,6.0,1.56,24.0,0,0.0
+ST02,Mumbai,P040,Milk Chocolate Bar 40 g,Snacks,OK,413,34.0,10.0,5.56,72.0,0,0.0
+ST02,Mumbai,P041,Chocolate Bar 100 g,Snacks,OK,461,28.0,8.0,4.52,58.0,0,0.0
+ST02,Mumbai,P042,Instant Noodles Masala 70 g,Snacks,OK,113,41.0,10.0,7.13,89.0,0,0.0
+ST02,Mumbai,P043,Popcorn 60 g,Snacks,Reorder now,3,16.0,6.0,2.32,32.0,29,627.0
+ST02,Mumbai,P044,Roasted Peanuts 200 g,Snacks,OK,30,25.0,8.0,3.82,50.0,20,803.0
+ST02,Mumbai,P045,Namkeen Sev 200 g,Snacks,Stocked out,0,26.0,9.0,3.84,52.0,52,1633.0
+ST02,Mumbai,P046,Mango Drink 600 ml,Beverages,OK,60,18.0,7.0,5.05,58.0,0,0.0
+ST02,Mumbai,P047,Mango Drink 200 ml,Beverages,Stocked out,0,35.0,11.0,11.1,122.0,122,1523.0
+ST02,Mumbai,P048,Packaged Water 1 L,Beverages,Reorder now,8,23.0,8.0,6.97,78.0,70,907.0
+ST02,Mumbai,P049,Packaged Water 2 L,Beverages,OK,114,28.0,9.0,8.49,94.0,0,0.0
+ST02,Mumbai,P050,Orange Juice 1 L,Beverages,Reorder now,3,13.0,5.0,3.5,40.0,37,3292.0
+ST02,Mumbai,P051,Apple Juice 1 L,Beverages,Reorder now,3,15.0,6.0,3.91,46.0,43,3989.0
+ST02,Mumbai,P052,Tea Powder 500 g,Beverages,OK,340,14.0,5.0,3.96,45.0,0,0.0
+ST02,Mumbai,P053,Tea Powder 250 g,Beverages,OK,15,6.0,3.0,0.97,13.0,0,0.0
+ST02,Mumbai,P054,Instant Coffee 100 g,Beverages,OK,29,8.0,4.0,1.85,23.0,0,0.0
+ST02,Mumbai,P055,Instant Coffee 50 g,Beverages,Reorder now,1,8.0,4.0,1.83,23.0,22,2457.0
+ST02,Mumbai,P056,Green Tea Bags 25 pcs,Beverages,OK,19,8.0,4.0,1.75,22.0,3,304.0
+ST02,Mumbai,P057,Lemon Drink 600 ml,Beverages,OK,31,15.0,6.0,3.91,46.0,15,380.0
+ST02,Mumbai,P058,Coconut Water 200 ml,Beverages,OK,186,46.0,13.0,15.38,167.0,0,0.0
+ST02,Mumbai,P059,Malt Health Drink 500 g,Beverages,OK,7,6.0,3.0,1.13,15.0,8,1366.0
+ST02,Mumbai,P060,Rose Syrup 750 ml,Beverages,No recent demand,193,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P061,Shampoo 340 ml,Personal Care,Reorder now,3,4.0,2.0,0.2,5.0,2,491.0
+ST02,Mumbai,P062,Conditioner 180 ml,Personal Care,Reorder now,7,8.0,4.0,0.63,13.0,6,1004.0
+ST02,Mumbai,P063,Bathing Soap 4 pack,Personal Care,OK,109,12.0,5.0,1.13,20.0,0,0.0
+ST02,Mumbai,P064,Body Wash 250 ml,Personal Care,OK,21,14.0,5.0,1.44,24.0,3,527.0
+ST02,Mumbai,P065,Toothpaste 200 g,Personal Care,OK,34,15.0,5.0,1.63,27.0,0,0.0
+ST02,Mumbai,P066,Toothbrush 3 pack,Personal Care,OK,49,20.0,6.0,2.21,35.0,0,0.0
+ST02,Mumbai,P067,Face Wash 100 ml,Personal Care,Stocked out,0,9.0,4.0,0.74,14.0,14,1616.0
+ST02,Mumbai,P068,Moisturiser 200 ml,Personal Care,OK,59,6.0,3.0,0.48,10.0,0,0.0
+ST02,Mumbai,P069,Sunscreen 50 g,Personal Care,No recent demand,93,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P070,Hair Oil 200 ml,Personal Care,Reorder now,1,11.0,5.0,1.0,18.0,17,1209.0
+ST02,Mumbai,P071,Deodorant 150 ml,Personal Care,OK,10,6.0,3.0,0.4,9.0,0,0.0
+ST02,Mumbai,P072,Hand Wash 250 ml,Personal Care,OK,8,5.0,3.0,0.33,8.0,0,0.0
+ST02,Mumbai,P073,Sanitary Pads 20 pcs,Personal Care,Reorder now,4,6.0,3.0,0.41,9.0,5,737.0
+ST02,Mumbai,P074,Razor 5 pack,Personal Care,OK,23,17.0,6.0,1.72,29.0,6,353.0
+ST02,Mumbai,P075,Talcum Powder 200 g,Personal Care,OK,17,13.0,6.0,1.08,21.0,4,364.0
+ST02,Mumbai,P076,Detergent Powder 1 kg,Household,Stocked out,0,17.0,6.0,2.1,32.0,32,2762.0
+ST02,Mumbai,P077,Liquid Detergent 1 L,Household,OK,48,6.0,3.0,0.56,10.0,0,0.0
+ST02,Mumbai,P078,Dishwash Liquid 500 ml,Household,OK,92,12.0,5.0,1.36,22.0,0,0.0
+ST02,Mumbai,P079,Dishwash Bar 3 pack,Household,No recent demand,122,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P080,Floor Cleaner 1 L,Household,OK,56,8.0,4.0,0.76,14.0,0,0.0
+ST02,Mumbai,P081,Toilet Cleaner 500 ml,Household,OK,38,15.0,5.0,1.86,28.0,0,0.0
+ST02,Mumbai,P082,Glass Cleaner 500 ml,Household,Reorder now,6,6.0,3.0,0.56,10.0,4,310.0
+ST02,Mumbai,P083,Phenyl 1 L,Household,OK,11,9.0,4.0,0.89,15.0,4,331.0
+ST02,Mumbai,P084,Garbage Bags 30 pcs,Household,Stocked out,0,10.0,5.0,0.97,17.0,17,1244.0
+ST02,Mumbai,P085,Aluminium Foil 9 m,Household,OK,9,6.0,3.0,0.43,9.0,0,0.0
+ST02,Mumbai,P086,Tissue Rolls 4 pack,Household,OK,24,13.0,5.0,1.58,24.0,0,0.0
+ST02,Mumbai,P087,Agarbatti 100 sticks,Household,Reorder now,6,6.0,3.0,0.62,11.0,5,251.0
+ST02,Mumbai,P088,Matchbox 10 pack,Household,OK,24,16.0,6.0,2.0,30.0,6,92.0
+ST02,Mumbai,P089,Mosquito Repellent Refill 45 ml,Household,OK,146,14.0,5.0,1.85,28.0,0,0.0
+ST02,Mumbai,P090,Scrub Pad 3 pack,Household,OK,258,16.0,5.0,2.07,30.0,0,0.0
+ST02,Mumbai,P091,Tomato Ketchup 500 g,Packaged Foods,OK,32,28.0,8.0,2.63,45.0,13,1005.0
+ST02,Mumbai,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,37,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P093,Peanut Butter 340 g,Packaged Foods,OK,97,12.0,5.0,0.86,17.0,0,0.0
+ST02,Mumbai,P094,Pasta 500 g,Packaged Foods,OK,28,15.0,6.0,1.18,23.0,0,0.0
+ST02,Mumbai,P095,Instant Soup Pack,Packaged Foods,Reorder now,2,7.0,3.0,0.48,10.0,8,148.0
+ST02,Mumbai,P096,Corn Flakes 475 g,Packaged Foods,Reorder now,1,6.0,3.0,0.27,7.0,6,755.0
+ST02,Mumbai,P097,Oats 1 kg,Packaged Foods,No recent demand,11,0.0,0.0,0.0,0.0,0,0.0
+ST02,Mumbai,P098,Muesli 500 g,Packaged Foods,Reorder now,9,9.0,4.0,0.54,12.0,3,511.0
+ST02,Mumbai,P099,Mango Pickle 400 g,Packaged Foods,Reorder now,5,20.0,7.0,1.69,31.0,26,2601.0
+ST02,Mumbai,P100,Tomato Puree 200 g,Packaged Foods,OK,22,11.0,4.0,0.82,16.0,0,0.0
+ST02,Mumbai,P101,Ready Mix Idli 500 g,Packaged Foods,OK,22,14.0,6.0,0.94,20.0,0,0.0
+ST02,Mumbai,P102,Gulab Jamun Mix 175 g,Packaged Foods,OK,95,39.0,9.0,3.85,63.0,0,0.0
+ST02,Mumbai,P103,Honey 500 g,Packaged Foods,OK,54,10.0,4.0,0.72,15.0,0,0.0
+ST02,Mumbai,P104,Vermicelli 400 g,Packaged Foods,OK,482,34.0,9.0,3.16,54.0,0,0.0
+ST02,Mumbai,P105,Papad 200 g,Packaged Foods,Reorder now,1,10.0,4.0,0.73,15.0,14,610.0
+ST02,Mumbai,P106,Notebook 172 pages,Stationery,Reorder now,1,8.0,4.0,1.07,21.0,20,987.0
+ST02,Mumbai,P107,Notebook 6 pack,Stationery,Reorder now,4,5.0,3.0,0.47,11.0,7,1704.0
+ST02,Mumbai,P108,Ball Pen Blue 10 pack,Stationery,OK,11,7.0,3.0,1.01,19.0,8,535.0
+ST02,Mumbai,P109,Gel Pen 5 pack,Stationery,OK,33,16.0,6.0,2.65,46.0,13,655.0
+ST02,Mumbai,P110,Pencil 10 pack,Stationery,OK,6,5.0,3.0,0.47,11.0,5,185.0
+ST02,Mumbai,P111,Eraser & Sharpener Set,Stationery,OK,22,17.0,6.0,2.91,50.0,28,612.0
+ST02,Mumbai,P112,Geometry Box,Stationery,OK,15,11.0,5.0,1.41,27.0,12,1008.0
+ST02,Mumbai,P113,A4 Paper 500 sheets,Stationery,Reorder now,5,6.0,3.0,0.58,12.0,7,1804.0
+ST02,Mumbai,P114,Sticky Notes 100 sheets,Stationery,Stocked out,0,5.0,3.0,0.49,11.0,11,419.0
+ST02,Mumbai,P115,Highlighter 4 pack,Stationery,OK,12,9.0,4.0,1.31,24.0,12,1057.0
+ST02,Mumbai,P116,Permanent Marker 2 pack,Stationery,Reorder now,6,7.0,3.0,0.88,17.0,11,641.0
+ST02,Mumbai,P117,Glue Stick,Stationery,Reorder now,15,18.0,7.0,2.82,50.0,35,569.0
+ST02,Mumbai,P118,Cello Tape,Stationery,OK,84,13.0,5.0,1.95,35.0,0,0.0
+ST02,Mumbai,P119,Stapler,Stationery,OK,46,24.0,7.0,4.34,73.0,27,2245.0
+ST02,Mumbai,P120,Drawing Book,Stationery,Reorder now,4,9.0,4.0,1.24,23.0,19,990.0
+ST03,Delhi,P001,Basmati Rice 5 kg,Staples & Grains,OK,10,9.0,4.0,0.95,16.0,6,2913.0
+ST03,Delhi,P002,Sona Masoori Rice 10 kg,Staples & Grains,Reorder now,6,8.0,4.0,0.36,10.0,4,1765.0
+ST03,Delhi,P003,Whole Wheat Atta 5 kg,Staples & Grains,Reorder now,8,18.0,6.0,2.19,33.0,25,4730.0
+ST03,Delhi,P004,Toor Dal 1 kg,Staples & Grains,OK,76,35.0,10.0,2.63,53.0,0,0.0
+ST03,Delhi,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,12,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P006,Chana Dal 1 kg,Staples & Grains,Reorder now,11,12.0,5.0,0.72,17.0,6,521.0
+ST03,Delhi,P007,Masoor Dal 1 kg,Staples & Grains,OK,30,15.0,6.0,1.62,26.0,0,0.0
+ST03,Delhi,P008,Besan 500 g,Staples & Grains,OK,40,19.0,6.0,1.37,28.0,0,0.0
+ST03,Delhi,P009,Sugar 1 kg,Staples & Grains,No recent demand,120,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P010,Iodised Salt 1 kg,Staples & Grains,OK,38,20.0,7.0,1.37,29.0,0,0.0
+ST03,Delhi,P011,Poha 500 g,Staples & Grains,OK,58,28.0,8.0,3.75,54.0,0,0.0
+ST03,Delhi,P012,Suji Rava 500 g,Staples & Grains,OK,544,45.0,10.0,3.71,70.0,0,0.0
+ST03,Delhi,P013,Sunflower Oil 1 L,Staples & Grains,OK,109,10.0,4.0,1.0,16.0,0,0.0
+ST03,Delhi,P014,Groundnut Oil 1 L,Staples & Grains,OK,80,39.0,10.0,3.05,59.0,0,0.0
+ST03,Delhi,P015,Turmeric Powder 200 g,Staples & Grains,OK,57,19.0,6.0,2.45,36.0,0,0.0
+ST03,Delhi,P016,Full Cream Milk 1 L,Dairy,Reorder now,5,8.0,4.0,1.73,10.0,5,274.0
+ST03,Delhi,P017,Toned Milk 1 L,Dairy,Reorder now,15,16.0,6.0,4.4,21.0,6,254.0
+ST03,Delhi,P018,Double Toned Milk 500 ml,Dairy,Reorder now,7,9.0,4.0,2.06,11.0,4,88.0
+ST03,Delhi,P019,Curd 400 g,Dairy,OK,64,25.0,8.0,7.48,68.0,4,129.0
+ST03,Delhi,P020,Curd 1 kg,Dairy,OK,26,12.0,5.0,3.04,30.0,4,247.0
+ST03,Delhi,P021,Paneer 200 g,Dairy,OK,30,11.0,5.0,2.52,28.0,0,0.0
+ST03,Delhi,P022,Butter 100 g,Dairy,OK,41,9.0,4.0,1.93,22.0,0,0.0
+ST03,Delhi,P023,Butter 500 g,Dairy,OK,615,18.0,7.0,4.85,51.0,0,0.0
+ST03,Delhi,P024,Ghee 500 ml,Dairy,No recent demand,62,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P025,Ghee 1 L,Dairy,OK,14,5.0,3.0,0.92,12.0,0,0.0
+ST03,Delhi,P026,Cheese Slices 200 g,Dairy,OK,16,8.0,4.0,1.66,19.0,3,310.0
+ST03,Delhi,P027,Mozzarella Cheese 200 g,Dairy,OK,37,14.0,6.0,3.57,39.0,2,210.0
+ST03,Delhi,P028,Flavoured Milk 200 ml,Dairy,OK,52,17.0,6.0,5.04,52.0,0,0.0
+ST03,Delhi,P029,Sweet Lassi 200 ml,Dairy,Reorder now,2,21.0,8.0,6.03,63.0,61,1243.0
+ST03,Delhi,P030,Buttermilk 200 ml,Dairy,OK,85,22.0,7.0,6.66,67.0,0,0.0
+ST03,Delhi,P031,Salted Chips 50 g,Snacks,OK,215,125.0,26.0,23.21,282.0,67,1083.0
+ST03,Delhi,P032,Masala Chips 50 g,Snacks,Reorder now,5,19.0,6.0,3.02,40.0,35,558.0
+ST03,Delhi,P033,Aloo Bhujia 400 g,Snacks,OK,17,12.0,5.0,1.57,23.0,6,507.0
+ST03,Delhi,P034,Moong Dal Namkeen 200 g,Snacks,OK,139,12.0,5.0,1.57,23.0,0,0.0
+ST03,Delhi,P035,Mixture 400 g,Snacks,OK,490,25.0,8.0,3.84,51.0,0,0.0
+ST03,Delhi,P036,Cream Biscuits 120 g,Snacks,OK,797,53.0,12.0,9.57,118.0,0,0.0
+ST03,Delhi,P037,Glucose Biscuits 200 g,Snacks,OK,49,22.0,7.0,3.3,44.0,0,0.0
+ST03,Delhi,P038,Marie Biscuits 250 g,Snacks,OK,31,13.0,5.0,1.76,25.0,0,0.0
+ST03,Delhi,P039,Choco Cookies 150 g,Snacks,OK,170,13.0,5.0,1.79,25.0,0,0.0
+ST03,Delhi,P040,Milk Chocolate Bar 40 g,Snacks,OK,125,32.0,9.0,5.29,68.0,0,0.0
+ST03,Delhi,P041,Chocolate Bar 100 g,Snacks,OK,678,28.0,8.0,4.49,58.0,0,0.0
+ST03,Delhi,P042,Instant Noodles Masala 70 g,Snacks,OK,578,41.0,11.0,6.92,88.0,0,0.0
+ST03,Delhi,P043,Popcorn 60 g,Snacks,OK,45,15.0,6.0,1.98,28.0,0,0.0
+ST03,Delhi,P044,Roasted Peanuts 200 g,Snacks,OK,61,23.0,8.0,3.5,47.0,0,0.0
+ST03,Delhi,P045,Namkeen Sev 200 g,Snacks,OK,75,25.0,8.0,3.82,50.0,0,0.0
+ST03,Delhi,P046,Mango Drink 600 ml,Beverages,OK,32,18.0,7.0,5.16,59.0,27,780.0
+ST03,Delhi,P047,Mango Drink 200 ml,Beverages,OK,105,33.0,10.0,10.53,116.0,11,137.0
+ST03,Delhi,P048,Packaged Water 1 L,Beverages,Reorder now,5,23.0,8.0,6.85,77.0,72,933.0
+ST03,Delhi,P049,Packaged Water 2 L,Beverages,Reorder now,8,25.0,9.0,7.33,83.0,75,1828.0
+ST03,Delhi,P050,Orange Juice 1 L,Beverages,OK,46,13.0,6.0,3.29,39.0,0,0.0
+ST03,Delhi,P051,Apple Juice 1 L,Beverages,OK,345,13.0,5.0,3.57,41.0,0,0.0
+ST03,Delhi,P052,Tea Powder 500 g,Beverages,Reorder now,6,13.0,5.0,3.57,41.0,35,6279.0
+ST03,Delhi,P053,Tea Powder 250 g,Beverages,Stocked out,0,6.0,3.0,1.04,14.0,14,1322.0
+ST03,Delhi,P054,Instant Coffee 100 g,Beverages,OK,21,8.0,4.0,1.69,21.0,0,0.0
+ST03,Delhi,P055,Instant Coffee 50 g,Beverages,Reorder now,2,8.0,4.0,1.59,20.0,18,2010.0
+ST03,Delhi,P056,Green Tea Bags 25 pcs,Beverages,OK,16,8.0,4.0,1.78,22.0,6,607.0
+ST03,Delhi,P057,Lemon Drink 600 ml,Beverages,OK,48,12.0,5.0,3.14,37.0,0,0.0
+ST03,Delhi,P058,Coconut Water 200 ml,Beverages,OK,208,41.0,11.0,14.0,152.0,0,0.0
+ST03,Delhi,P059,Malt Health Drink 500 g,Beverages,OK,18,6.0,3.0,1.25,16.0,0,0.0
+ST03,Delhi,P060,Rose Syrup 750 ml,Beverages,No recent demand,221,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P061,Shampoo 340 ml,Personal Care,Reorder now,3,3.0,2.0,0.14,4.0,1,246.0
+ST03,Delhi,P062,Conditioner 180 ml,Personal Care,Reorder now,7,7.0,3.0,0.62,12.0,5,836.0
+ST03,Delhi,P063,Bathing Soap 4 pack,Personal Care,OK,27,13.0,5.0,1.22,21.0,0,0.0
+ST03,Delhi,P064,Body Wash 250 ml,Personal Care,OK,27,12.0,5.0,1.13,20.0,0,0.0
+ST03,Delhi,P065,Toothpaste 200 g,Personal Care,OK,108,15.0,5.0,1.53,25.0,0,0.0
+ST03,Delhi,P066,Toothbrush 3 pack,Personal Care,OK,48,20.0,6.0,2.21,35.0,0,0.0
+ST03,Delhi,P067,Face Wash 100 ml,Personal Care,OK,13,8.0,4.0,0.63,13.0,0,0.0
+ST03,Delhi,P068,Moisturiser 200 ml,Personal Care,Reorder now,4,6.0,3.0,0.42,9.0,5,799.0
+ST03,Delhi,P069,Sunscreen 50 g,Personal Care,No recent demand,78,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P070,Hair Oil 200 ml,Personal Care,OK,14,10.0,4.0,0.84,15.0,1,71.0
+ST03,Delhi,P071,Deodorant 150 ml,Personal Care,Reorder now,4,4.0,2.0,0.29,6.0,2,281.0
+ST03,Delhi,P072,Hand Wash 250 ml,Personal Care,OK,59,6.0,3.0,0.4,9.0,0,0.0
+ST03,Delhi,P073,Sanitary Pads 20 pcs,Personal Care,OK,10,6.0,3.0,0.46,9.0,0,0.0
+ST03,Delhi,P074,Razor 5 pack,Personal Care,Reorder now,10,16.0,6.0,1.61,27.0,17,999.0
+ST03,Delhi,P075,Talcum Powder 200 g,Personal Care,Reorder now,2,13.0,5.0,1.21,21.0,19,1727.0
+ST03,Delhi,P076,Detergent Powder 1 kg,Household,OK,149,13.0,5.0,1.59,25.0,0,0.0
+ST03,Delhi,P077,Liquid Detergent 1 L,Household,Stocked out,0,6.0,3.0,0.48,9.0,9,1520.0
+ST03,Delhi,P078,Dishwash Liquid 500 ml,Household,OK,18,11.0,5.0,1.23,20.0,2,148.0
+ST03,Delhi,P079,Dishwash Bar 3 pack,Household,No recent demand,82,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P080,Floor Cleaner 1 L,Household,Stocked out,0,7.0,3.0,0.73,12.0,12,1467.0
+ST03,Delhi,P081,Toilet Cleaner 500 ml,Household,OK,29,14.0,6.0,1.46,24.0,0,0.0
+ST03,Delhi,P082,Glass Cleaner 500 ml,Household,OK,7,6.0,3.0,0.6,11.0,4,310.0
+ST03,Delhi,P083,Phenyl 1 L,Household,Reorder now,1,9.0,4.0,0.85,15.0,14,1158.0
+ST03,Delhi,P084,Garbage Bags 30 pcs,Household,OK,17,8.0,4.0,0.75,14.0,0,0.0
+ST03,Delhi,P085,Aluminium Foil 9 m,Household,OK,12,6.0,3.0,0.52,10.0,0,0.0
+ST03,Delhi,P086,Tissue Rolls 4 pack,Household,OK,26,12.0,5.0,1.41,22.0,0,0.0
+ST03,Delhi,P087,Agarbatti 100 sticks,Household,Reorder now,2,9.0,4.0,0.92,16.0,14,704.0
+ST03,Delhi,P088,Matchbox 10 pack,Household,OK,32,14.0,5.0,1.67,26.0,0,0.0
+ST03,Delhi,P089,Mosquito Repellent Refill 45 ml,Household,OK,30,14.0,5.0,1.72,26.0,0,0.0
+ST03,Delhi,P090,Scrub Pad 3 pack,Household,OK,34,18.0,6.0,2.29,34.0,0,0.0
+ST03,Delhi,P091,Tomato Ketchup 500 g,Packaged Foods,Reorder now,6,22.0,7.0,1.92,34.0,28,2164.0
+ST03,Delhi,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,49,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P093,Peanut Butter 340 g,Packaged Foods,OK,12,11.0,4.0,0.81,16.0,4,545.0
+ST03,Delhi,P094,Pasta 500 g,Packaged Foods,OK,18,13.0,5.0,0.98,19.0,1,71.0
+ST03,Delhi,P095,Instant Soup Pack,Packaged Foods,OK,48,6.0,3.0,0.37,9.0,0,0.0
+ST03,Delhi,P096,Corn Flakes 475 g,Packaged Foods,Reorder now,3,6.0,3.0,0.28,7.0,4,503.0
+ST03,Delhi,P097,Oats 1 kg,Packaged Foods,No recent demand,14,0.0,0.0,0.0,0.0,0,0.0
+ST03,Delhi,P098,Muesli 500 g,Packaged Foods,Reorder now,1,7.0,4.0,0.35,9.0,8,1364.0
+ST03,Delhi,P099,Mango Pickle 400 g,Packaged Foods,OK,28,15.0,5.0,1.25,23.0,0,0.0
+ST03,Delhi,P100,Tomato Puree 200 g,Packaged Foods,OK,21,11.0,4.0,0.82,16.0,0,0.0
+ST03,Delhi,P101,Ready Mix Idli 500 g,Packaged Foods,OK,23,13.0,5.0,1.02,20.0,0,0.0
+ST03,Delhi,P102,Gulab Jamun Mix 175 g,Packaged Foods,OK,86,39.0,10.0,3.71,62.0,0,0.0
+ST03,Delhi,P103,Honey 500 g,Packaged Foods,OK,78,9.0,4.0,0.64,14.0,0,0.0
+ST03,Delhi,P104,Vermicelli 400 g,Packaged Foods,OK,42,29.0,8.0,2.68,46.0,4,154.0
+ST03,Delhi,P105,Papad 200 g,Packaged Foods,OK,11,9.0,4.0,0.59,13.0,2,87.0
+ST03,Delhi,P106,Notebook 172 pages,Stationery,OK,13,9.0,4.0,1.09,21.0,8,395.0
+ST03,Delhi,P107,Notebook 6 pack,Stationery,OK,5,4.0,2.0,0.36,8.0,3,730.0
+ST03,Delhi,P108,Ball Pen Blue 10 pack,Stationery,Reorder now,7,8.0,4.0,0.94,19.0,12,803.0
+ST03,Delhi,P109,Gel Pen 5 pack,Stationery,Reorder now,12,14.0,5.0,2.29,40.0,28,1411.0
+ST03,Delhi,P110,Pencil 10 pack,Stationery,OK,6,5.0,3.0,0.47,11.0,5,185.0
+ST03,Delhi,P111,Eraser & Sharpener Set,Stationery,OK,32,16.0,6.0,2.65,46.0,14,306.0
+ST03,Delhi,P112,Geometry Box,Stationery,OK,44,10.0,5.0,1.31,25.0,0,0.0
+ST03,Delhi,P113,A4 Paper 500 sheets,Stationery,Reorder now,5,5.0,3.0,0.45,10.0,5,1288.0
+ST03,Delhi,P114,Sticky Notes 100 sheets,Stationery,OK,7,6.0,3.0,0.66,13.0,6,228.0
+ST03,Delhi,P115,Highlighter 4 pack,Stationery,OK,15,9.0,4.0,1.2,22.0,7,616.0
+ST03,Delhi,P116,Permanent Marker 2 pack,Stationery,OK,55,8.0,4.0,0.98,19.0,0,0.0
+ST03,Delhi,P117,Glue Stick,Stationery,OK,19,14.0,5.0,2.2,39.0,20,325.0
+ST03,Delhi,P118,Cello Tape,Stationery,OK,15,10.0,4.0,1.48,27.0,12,334.0
+ST03,Delhi,P119,Stapler,Stationery,OK,26,23.0,8.0,3.85,66.0,40,3325.0
+ST03,Delhi,P120,Drawing Book,Stationery,OK,50,8.0,4.0,0.83,17.0,0,0.0
+ST04,Bengaluru,P001,Basmati Rice 5 kg,Staples & Grains,OK,110,9.0,4.0,0.88,15.0,0,0.0
+ST04,Bengaluru,P002,Sona Masoori Rice 10 kg,Staples & Grains,Stocked out,0,8.0,4.0,0.43,11.0,11,4854.0
+ST04,Bengaluru,P003,Whole Wheat Atta 5 kg,Staples & Grains,OK,114,15.0,5.0,1.84,28.0,0,0.0
+ST04,Bengaluru,P004,Toor Dal 1 kg,Staples & Grains,OK,54,34.0,8.0,2.73,52.0,0,0.0
+ST04,Bengaluru,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,16,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P006,Chana Dal 1 kg,Staples & Grains,OK,12,9.0,4.0,0.49,12.0,0,0.0
+ST04,Bengaluru,P007,Masoor Dal 1 kg,Staples & Grains,Reorder now,3,14.0,5.0,1.67,26.0,23,1984.0
+ST04,Bengaluru,P008,Besan 500 g,Staples & Grains,Reorder now,18,19.0,6.0,1.32,28.0,10,594.0
+ST04,Bengaluru,P009,Sugar 1 kg,Staples & Grains,No recent demand,68,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P010,Iodised Salt 1 kg,Staples & Grains,OK,20,13.0,5.0,0.81,19.0,0,0.0
+ST04,Bengaluru,P011,Poha 500 g,Staples & Grains,OK,87,25.0,7.0,3.49,49.0,0,0.0
+ST04,Bengaluru,P012,Suji Rava 500 g,Staples & Grains,OK,82,43.0,10.0,3.5,67.0,0,0.0
+ST04,Bengaluru,P013,Sunflower Oil 1 L,Staples & Grains,OK,34,13.0,5.0,1.42,22.0,0,0.0
+ST04,Bengaluru,P014,Groundnut Oil 1 L,Staples & Grains,OK,294,34.0,8.0,2.77,53.0,0,0.0
+ST04,Bengaluru,P015,Turmeric Powder 200 g,Staples & Grains,OK,54,19.0,7.0,2.25,35.0,0,0.0
+ST04,Bengaluru,P016,Full Cream Milk 1 L,Dairy,Reorder now,6,8.0,4.0,1.4,9.0,3,165.0
+ST04,Bengaluru,P017,Toned Milk 1 L,Dairy,Stocked out,0,15.0,6.0,4.13,20.0,20,846.0
+ST04,Bengaluru,P018,Double Toned Milk 500 ml,Dairy,Reorder now,6,8.0,4.0,1.86,10.0,4,88.0
+ST04,Bengaluru,P019,Curd 400 g,Dairy,OK,66,26.0,9.0,7.77,72.0,6,194.0
+ST04,Bengaluru,P020,Curd 1 kg,Dairy,Reorder now,2,11.0,5.0,2.58,26.0,24,1483.0
+ST04,Bengaluru,P021,Paneer 200 g,Dairy,OK,37,9.0,4.0,2.11,23.0,0,0.0
+ST04,Bengaluru,P022,Butter 100 g,Dairy,OK,30,8.0,4.0,1.65,19.0,0,0.0
+ST04,Bengaluru,P023,Butter 500 g,Dairy,OK,73,17.0,6.0,4.81,50.0,0,0.0
+ST04,Bengaluru,P024,Ghee 500 ml,Dairy,No recent demand,62,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P025,Ghee 1 L,Dairy,Reorder now,5,5.0,3.0,0.91,12.0,7,3784.0
+ST04,Bengaluru,P026,Cheese Slices 200 g,Dairy,OK,280,8.0,4.0,1.8,21.0,0,0.0
+ST04,Bengaluru,P027,Mozzarella Cheese 200 g,Dairy,Reorder now,7,13.0,5.0,3.41,36.0,29,3044.0
+ST04,Bengaluru,P028,Flavoured Milk 200 ml,Dairy,Reorder now,13,19.0,7.0,5.14,54.0,41,767.0
+ST04,Bengaluru,P029,Sweet Lassi 200 ml,Dairy,OK,39,20.0,7.0,5.86,60.0,21,428.0
+ST04,Bengaluru,P030,Buttermilk 200 ml,Dairy,OK,59,20.0,7.0,5.96,61.0,2,23.0
+ST04,Bengaluru,P031,Salted Chips 50 g,Snacks,Reorder now,33,117.0,22.0,22.17,266.0,233,3768.0
+ST04,Bengaluru,P032,Masala Chips 50 g,Snacks,OK,54,20.0,7.0,3.01,41.0,0,0.0
+ST04,Bengaluru,P033,Aloo Bhujia 400 g,Snacks,OK,33,12.0,5.0,1.42,21.0,0,0.0
+ST04,Bengaluru,P034,Moong Dal Namkeen 200 g,Snacks,OK,32,10.0,4.0,1.39,20.0,0,0.0
+ST04,Bengaluru,P035,Mixture 400 g,Snacks,OK,89,25.0,9.0,3.58,49.0,0,0.0
+ST04,Bengaluru,P036,Cream Biscuits 120 g,Snacks,OK,563,49.0,13.0,8.42,106.0,0,0.0
+ST04,Bengaluru,P037,Glucose Biscuits 200 g,Snacks,Reorder now,17,22.0,7.0,3.35,44.0,27,488.0
+ST04,Bengaluru,P038,Marie Biscuits 250 g,Snacks,OK,18,13.0,5.0,1.8,25.0,7,194.0
+ST04,Bengaluru,P039,Choco Cookies 150 g,Snacks,OK,133,12.0,5.0,1.43,21.0,0,0.0
+ST04,Bengaluru,P040,Milk Chocolate Bar 40 g,Snacks,OK,59,32.0,10.0,5.09,66.0,7,217.0
+ST04,Bengaluru,P041,Chocolate Bar 100 g,Snacks,OK,72,25.0,8.0,3.85,51.0,0,0.0
+ST04,Bengaluru,P042,Instant Noodles Masala 70 g,Snacks,Reorder now,29,37.0,9.0,6.35,79.0,50,485.0
+ST04,Bengaluru,P043,Popcorn 60 g,Snacks,OK,199,15.0,6.0,1.96,28.0,0,0.0
+ST04,Bengaluru,P044,Roasted Peanuts 200 g,Snacks,OK,36,21.0,7.0,3.21,43.0,7,281.0
+ST04,Bengaluru,P045,Namkeen Sev 200 g,Snacks,OK,324,21.0,6.0,3.35,43.0,0,0.0
+ST04,Bengaluru,P046,Mango Drink 600 ml,Beverages,OK,30,16.0,6.0,4.37,50.0,20,578.0
+ST04,Bengaluru,P047,Mango Drink 200 ml,Beverages,OK,778,29.0,9.0,9.22,102.0,0,0.0
+ST04,Bengaluru,P048,Packaged Water 1 L,Beverages,Reorder now,13,20.0,7.0,5.78,65.0,52,674.0
+ST04,Bengaluru,P049,Packaged Water 2 L,Beverages,OK,83,22.0,7.0,6.99,77.0,0,0.0
+ST04,Bengaluru,P050,Orange Juice 1 L,Beverages,OK,25,12.0,5.0,3.09,36.0,11,979.0
+ST04,Bengaluru,P051,Apple Juice 1 L,Beverages,OK,21,12.0,5.0,3.23,38.0,17,1577.0
+ST04,Bengaluru,P052,Tea Powder 500 g,Beverages,OK,51,13.0,5.0,3.5,40.0,0,0.0
+ST04,Bengaluru,P053,Tea Powder 250 g,Beverages,OK,12,5.0,3.0,0.93,13.0,1,94.0
+ST04,Bengaluru,P054,Instant Coffee 100 g,Beverages,OK,20,8.0,4.0,1.49,19.0,0,0.0
+ST04,Bengaluru,P055,Instant Coffee 50 g,Beverages,OK,86,8.0,4.0,1.47,19.0,0,0.0
+ST04,Bengaluru,P056,Green Tea Bags 25 pcs,Beverages,Stocked out,0,6.0,3.0,1.31,17.0,17,1721.0
+ST04,Bengaluru,P057,Lemon Drink 600 ml,Beverages,OK,19,12.0,5.0,2.98,35.0,16,405.0
+ST04,Bengaluru,P058,Coconut Water 200 ml,Beverages,OK,153,40.0,11.0,13.21,144.0,0,0.0
+ST04,Bengaluru,P059,Malt Health Drink 500 g,Beverages,OK,8,6.0,3.0,1.03,14.0,6,1024.0
+ST04,Bengaluru,P060,Rose Syrup 750 ml,Beverages,No recent demand,187,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P061,Shampoo 340 ml,Personal Care,Reorder now,3,3.0,2.0,0.14,4.0,1,246.0
+ST04,Bengaluru,P062,Conditioner 180 ml,Personal Care,OK,12,8.0,4.0,0.62,13.0,1,167.0
+ST04,Bengaluru,P063,Bathing Soap 4 pack,Personal Care,OK,27,12.0,5.0,1.08,20.0,0,0.0
+ST04,Bengaluru,P064,Body Wash 250 ml,Personal Care,OK,22,10.0,4.0,0.97,17.0,0,0.0
+ST04,Bengaluru,P065,Toothpaste 200 g,Personal Care,Reorder now,5,15.0,6.0,1.5,26.0,21,1826.0
+ST04,Bengaluru,P066,Toothbrush 3 pack,Personal Care,OK,46,19.0,6.0,2.01,33.0,0,0.0
+ST04,Bengaluru,P067,Face Wash 100 ml,Personal Care,OK,63,9.0,4.0,0.71,14.0,0,0.0
+ST04,Bengaluru,P068,Moisturiser 200 ml,Personal Care,OK,10,6.0,3.0,0.43,9.0,0,0.0
+ST04,Bengaluru,P069,Sunscreen 50 g,Personal Care,No recent demand,101,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P070,Hair Oil 200 ml,Personal Care,OK,19,9.0,4.0,0.8,15.0,0,0.0
+ST04,Bengaluru,P071,Deodorant 150 ml,Personal Care,OK,5,4.0,2.0,0.27,6.0,1,141.0
+ST04,Bengaluru,P072,Hand Wash 250 ml,Personal Care,Reorder now,4,6.0,3.0,0.36,8.0,4,292.0
+ST04,Bengaluru,P073,Sanitary Pads 20 pcs,Personal Care,Reorder now,5,6.0,3.0,0.34,8.0,3,442.0
+ST04,Bengaluru,P074,Razor 5 pack,Personal Care,OK,95,13.0,5.0,1.24,22.0,0,0.0
+ST04,Bengaluru,P075,Talcum Powder 200 g,Personal Care,OK,17,12.0,5.0,1.11,20.0,3,273.0
+ST04,Bengaluru,P076,Detergent Powder 1 kg,Household,OK,25,15.0,6.0,1.72,27.0,2,173.0
+ST04,Bengaluru,P077,Liquid Detergent 1 L,Household,OK,9,7.0,3.0,0.63,11.0,2,338.0
+ST04,Bengaluru,P078,Dishwash Liquid 500 ml,Household,OK,75,10.0,4.0,1.13,18.0,0,0.0
+ST04,Bengaluru,P079,Dishwash Bar 3 pack,Household,No recent demand,65,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P080,Floor Cleaner 1 L,Household,Reorder now,4,6.0,3.0,0.52,10.0,6,734.0
+ST04,Bengaluru,P081,Toilet Cleaner 500 ml,Household,OK,33,14.0,5.0,1.76,27.0,0,0.0
+ST04,Bengaluru,P082,Glass Cleaner 500 ml,Household,OK,7,6.0,3.0,0.52,10.0,3,232.0
+ST04,Bengaluru,P083,Phenyl 1 L,Household,OK,58,7.0,3.0,0.68,12.0,0,0.0
+ST04,Bengaluru,P084,Garbage Bags 30 pcs,Household,OK,17,8.0,4.0,0.74,13.0,0,0.0
+ST04,Bengaluru,P085,Aluminium Foil 9 m,Household,Reorder now,1,6.0,3.0,0.42,9.0,8,399.0
+ST04,Bengaluru,P086,Tissue Rolls 4 pack,Household,OK,33,13.0,5.0,1.54,24.0,0,0.0
+ST04,Bengaluru,P087,Agarbatti 100 sticks,Household,OK,14,8.0,4.0,0.71,13.0,0,0.0
+ST04,Bengaluru,P088,Matchbox 10 pack,Household,OK,110,13.0,5.0,1.65,25.0,0,0.0
+ST04,Bengaluru,P089,Mosquito Repellent Refill 45 ml,Household,OK,13,12.0,5.0,1.42,23.0,10,498.0
+ST04,Bengaluru,P090,Scrub Pad 3 pack,Household,OK,27,15.0,5.0,1.95,29.0,2,56.0
+ST04,Bengaluru,P091,Tomato Ketchup 500 g,Packaged Foods,Reorder now,8,20.0,7.0,1.62,30.0,22,1700.0
+ST04,Bengaluru,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,35,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P093,Peanut Butter 340 g,Packaged Foods,Reorder now,3,8.0,4.0,0.52,12.0,9,1227.0
+ST04,Bengaluru,P094,Pasta 500 g,Packaged Foods,OK,144,13.0,5.0,1.03,20.0,0,0.0
+ST04,Bengaluru,P095,Instant Soup Pack,Packaged Foods,OK,77,8.0,4.0,0.49,11.0,0,0.0
+ST04,Bengaluru,P096,Corn Flakes 475 g,Packaged Foods,OK,7,5.0,3.0,0.25,7.0,0,0.0
+ST04,Bengaluru,P097,Oats 1 kg,Packaged Foods,No recent demand,18,0.0,0.0,0.0,0.0,0,0.0
+ST04,Bengaluru,P098,Muesli 500 g,Packaged Foods,OK,40,8.0,4.0,0.4,10.0,0,0.0
+ST04,Bengaluru,P099,Mango Pickle 400 g,Packaged Foods,OK,40,17.0,6.0,1.41,26.0,0,0.0
+ST04,Bengaluru,P100,Tomato Puree 200 g,Packaged Foods,Reorder now,2,9.0,4.0,0.65,14.0,12,539.0
+ST04,Bengaluru,P101,Ready Mix Idli 500 g,Packaged Foods,OK,25,12.0,5.0,0.86,18.0,0,0.0
+ST04,Bengaluru,P102,Gulab Jamun Mix 175 g,Packaged Foods,OK,65,37.0,9.0,3.59,60.0,0,0.0
+ST04,Bengaluru,P103,Honey 500 g,Packaged Foods,Reorder now,8,9.0,4.0,0.54,12.0,4,695.0
+ST04,Bengaluru,P104,Vermicelli 400 g,Packaged Foods,OK,40,28.0,8.0,2.63,45.0,5,192.0
+ST04,Bengaluru,P105,Papad 200 g,Packaged Foods,OK,88,10.0,4.0,0.7,14.0,0,0.0
+ST04,Bengaluru,P106,Notebook 172 pages,Stationery,OK,10,9.0,4.0,1.11,21.0,11,543.0
+ST04,Bengaluru,P107,Notebook 6 pack,Stationery,Reorder now,3,3.0,2.0,0.26,6.0,3,730.0
+ST04,Bengaluru,P108,Ball Pen Blue 10 pack,Stationery,Reorder now,5,6.0,3.0,0.64,13.0,8,535.0
+ST04,Bengaluru,P109,Gel Pen 5 pack,Stationery,Reorder now,11,13.0,5.0,1.93,34.0,23,1159.0
+ST04,Bengaluru,P110,Pencil 10 pack,Stationery,OK,27,5.0,3.0,0.49,11.0,0,0.0
+ST04,Bengaluru,P111,Eraser & Sharpener Set,Stationery,Reorder now,4,14.0,5.0,2.27,40.0,36,787.0
+ST04,Bengaluru,P112,Geometry Box,Stationery,OK,13,9.0,4.0,1.11,21.0,8,672.0
+ST04,Bengaluru,P113,A4 Paper 500 sheets,Stationery,OK,11,5.0,3.0,0.39,9.0,0,0.0
+ST04,Bengaluru,P114,Sticky Notes 100 sheets,Stationery,OK,7,6.0,3.0,0.73,14.0,7,266.0
+ST04,Bengaluru,P115,Highlighter 4 pack,Stationery,OK,13,9.0,4.0,1.28,24.0,11,969.0
+ST04,Bengaluru,P116,Permanent Marker 2 pack,Stationery,Reorder now,6,8.0,4.0,0.98,19.0,13,757.0
+ST04,Bengaluru,P117,Glue Stick,Stationery,OK,17,15.0,5.0,2.42,42.0,25,407.0
+ST04,Bengaluru,P118,Cello Tape,Stationery,OK,96,12.0,5.0,1.63,30.0,0,0.0
+ST04,Bengaluru,P119,Stapler,Stationery,Reorder now,2,18.0,6.0,3.19,54.0,52,4323.0
+ST04,Bengaluru,P120,Drawing Book,Stationery,OK,12,8.0,4.0,0.98,19.0,7,365.0
+ST05,Hyderabad,P001,Basmati Rice 5 kg,Staples & Grains,Reorder now,2,9.0,4.0,0.84,15.0,13,6312.0
+ST05,Hyderabad,P002,Sona Masoori Rice 10 kg,Staples & Grains,Reorder now,4,6.0,3.0,0.25,8.0,4,1765.0
+ST05,Hyderabad,P003,Whole Wheat Atta 5 kg,Staples & Grains,Reorder now,12,13.0,5.0,1.46,23.0,11,2081.0
+ST05,Hyderabad,P004,Toor Dal 1 kg,Staples & Grains,OK,214,28.0,8.0,2.1,42.0,0,0.0
+ST05,Hyderabad,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,6,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P006,Chana Dal 1 kg,Staples & Grains,OK,32,7.0,3.0,0.41,10.0,0,0.0
+ST05,Hyderabad,P007,Masoor Dal 1 kg,Staples & Grains,OK,20,12.0,5.0,1.27,21.0,1,86.0
+ST05,Hyderabad,P008,Besan 500 g,Staples & Grains,Stocked out,0,16.0,6.0,1.07,24.0,24,1426.0
+ST05,Hyderabad,P009,Sugar 1 kg,Staples & Grains,No recent demand,107,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P010,Iodised Salt 1 kg,Staples & Grains,OK,96,12.0,5.0,0.74,17.0,0,0.0
+ST05,Hyderabad,P011,Poha 500 g,Staples & Grains,OK,40,23.0,7.0,3.07,44.0,4,158.0
+ST05,Hyderabad,P012,Suji Rava 500 g,Staples & Grains,Reorder now,8,38.0,10.0,2.97,58.0,50,1830.0
+ST05,Hyderabad,P013,Sunflower Oil 1 L,Staples & Grains,Reorder now,11,12.0,5.0,1.25,21.0,10,1138.0
+ST05,Hyderabad,P014,Groundnut Oil 1 L,Staples & Grains,OK,277,32.0,9.0,2.42,48.0,0,0.0
+ST05,Hyderabad,P015,Turmeric Powder 200 g,Staples & Grains,OK,180,15.0,5.0,1.88,28.0,0,0.0
+ST05,Hyderabad,P016,Full Cream Milk 1 L,Dairy,Reorder now,5,8.0,4.0,1.54,9.0,4,220.0
+ST05,Hyderabad,P017,Toned Milk 1 L,Dairy,Reorder now,12,13.0,5.0,3.36,16.0,4,169.0
+ST05,Hyderabad,P018,Double Toned Milk 500 ml,Dairy,Reorder now,5,7.0,3.0,1.57,9.0,4,88.0
+ST05,Hyderabad,P019,Curd 400 g,Dairy,OK,52,21.0,7.0,6.11,56.0,4,129.0
+ST05,Hyderabad,P020,Curd 1 kg,Dairy,Reorder now,2,9.0,4.0,1.92,20.0,18,1112.0
+ST05,Hyderabad,P021,Paneer 200 g,Dairy,OK,23,9.0,4.0,2.01,23.0,0,0.0
+ST05,Hyderabad,P022,Butter 100 g,Dairy,Reorder now,3,8.0,4.0,1.59,19.0,16,735.0
+ST05,Hyderabad,P023,Butter 500 g,Dairy,OK,25,17.0,7.0,4.19,45.0,20,4057.0
+ST05,Hyderabad,P024,Ghee 500 ml,Dairy,No recent demand,85,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P025,Ghee 1 L,Dairy,OK,8,5.0,3.0,0.73,10.0,2,1081.0
+ST05,Hyderabad,P026,Cheese Slices 200 g,Dairy,OK,11,7.0,3.0,1.49,17.0,6,619.0
+ST05,Hyderabad,P027,Mozzarella Cheese 200 g,Dairy,OK,316,12.0,5.0,3.07,33.0,0,0.0
+ST05,Hyderabad,P028,Flavoured Milk 200 ml,Dairy,OK,94,15.0,5.0,4.5,46.0,0,0.0
+ST05,Hyderabad,P029,Sweet Lassi 200 ml,Dairy,OK,131,17.0,6.0,5.1,52.0,0,0.0
+ST05,Hyderabad,P030,Buttermilk 200 ml,Dairy,OK,45,18.0,6.0,5.58,57.0,12,140.0
+ST05,Hyderabad,P031,Salted Chips 50 g,Snacks,OK,282,102.0,20.0,19.09,231.0,0,0.0
+ST05,Hyderabad,P032,Masala Chips 50 g,Snacks,OK,30,18.0,7.0,2.42,34.0,4,64.0
+ST05,Hyderabad,P033,Aloo Bhujia 400 g,Snacks,Reorder now,3,10.0,4.0,1.26,18.0,15,1266.0
+ST05,Hyderabad,P034,Moong Dal Namkeen 200 g,Snacks,OK,125,11.0,5.0,1.25,19.0,0,0.0
+ST05,Hyderabad,P035,Mixture 400 g,Snacks,OK,50,21.0,7.0,3.17,42.0,0,0.0
+ST05,Hyderabad,P036,Cream Biscuits 120 g,Snacks,Stocked out,0,41.0,11.0,7.01,89.0,89,1829.0
+ST05,Hyderabad,P037,Glucose Biscuits 200 g,Snacks,OK,216,20.0,7.0,2.97,40.0,0,0.0
+ST05,Hyderabad,P038,Marie Biscuits 250 g,Snacks,OK,36,11.0,5.0,1.41,21.0,0,0.0
+ST05,Hyderabad,P039,Choco Cookies 150 g,Snacks,OK,27,11.0,5.0,1.21,19.0,0,0.0
+ST05,Hyderabad,P040,Milk Chocolate Bar 40 g,Snacks,OK,54,28.0,8.0,4.47,58.0,4,124.0
+ST05,Hyderabad,P041,Chocolate Bar 100 g,Snacks,Reorder now,6,22.0,7.0,3.36,44.0,38,2950.0
+ST05,Hyderabad,P042,Instant Noodles Masala 70 g,Snacks,Reorder now,12,30.0,8.0,4.94,63.0,51,495.0
+ST05,Hyderabad,P043,Popcorn 60 g,Snacks,OK,33,13.0,5.0,1.85,26.0,0,0.0
+ST05,Hyderabad,P044,Roasted Peanuts 200 g,Snacks,Reorder now,7,20.0,7.0,2.99,40.0,33,1325.0
+ST05,Hyderabad,P045,Namkeen Sev 200 g,Snacks,OK,70,19.0,7.0,2.81,38.0,0,0.0
+ST05,Hyderabad,P046,Mango Drink 600 ml,Beverages,OK,63,14.0,5.0,4.17,47.0,0,0.0
+ST05,Hyderabad,P047,Mango Drink 200 ml,Beverages,OK,70,26.0,8.0,8.35,92.0,22,275.0
+ST05,Hyderabad,P048,Packaged Water 1 L,Beverages,OK,62,19.0,7.0,5.47,62.0,0,0.0
+ST05,Hyderabad,P049,Packaged Water 2 L,Beverages,Reorder now,6,21.0,8.0,6.08,69.0,63,1535.0
+ST05,Hyderabad,P050,Orange Juice 1 L,Beverages,OK,22,9.0,4.0,2.07,25.0,3,267.0
+ST05,Hyderabad,P051,Apple Juice 1 L,Beverages,OK,128,12.0,5.0,3.0,36.0,0,0.0
+ST05,Hyderabad,P052,Tea Powder 500 g,Beverages,Reorder now,4,13.0,6.0,3.05,37.0,33,5921.0
+ST05,Hyderabad,P053,Tea Powder 250 g,Beverages,Reorder now,5,5.0,3.0,0.83,12.0,7,661.0
+ST05,Hyderabad,P054,Instant Coffee 100 g,Beverages,Reorder now,2,7.0,4.0,1.28,17.0,15,3207.0
+ST05,Hyderabad,P055,Instant Coffee 50 g,Beverages,OK,76,6.0,3.0,1.37,17.0,0,0.0
+ST05,Hyderabad,P056,Green Tea Bags 25 pcs,Beverages,OK,19,8.0,4.0,1.47,19.0,0,0.0
+ST05,Hyderabad,P057,Lemon Drink 600 ml,Beverages,OK,15,11.0,5.0,2.81,34.0,19,481.0
+ST05,Hyderabad,P058,Coconut Water 200 ml,Beverages,OK,65,35.0,10.0,11.55,126.0,61,1944.0
+ST05,Hyderabad,P059,Malt Health Drink 500 g,Beverages,OK,11,5.0,3.0,0.94,13.0,2,341.0
+ST05,Hyderabad,P060,Rose Syrup 750 ml,Beverages,No recent demand,268,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P061,Shampoo 340 ml,Personal Care,Reorder now,3,3.0,2.0,0.1,4.0,1,246.0
+ST05,Hyderabad,P062,Conditioner 180 ml,Personal Care,OK,11,7.0,3.0,0.51,10.0,0,0.0
+ST05,Hyderabad,P063,Bathing Soap 4 pack,Personal Care,Reorder now,5,11.0,5.0,0.92,17.0,12,1234.0
+ST05,Hyderabad,P064,Body Wash 250 ml,Personal Care,OK,17,10.0,4.0,0.9,16.0,0,0.0
+ST05,Hyderabad,P065,Toothpaste 200 g,Personal Care,OK,82,14.0,5.0,1.36,23.0,0,0.0
+ST05,Hyderabad,P066,Toothbrush 3 pack,Personal Care,Stocked out,0,14.0,5.0,1.34,23.0,23,1481.0
+ST05,Hyderabad,P067,Face Wash 100 ml,Personal Care,Reorder now,7,7.0,3.0,0.59,11.0,4,462.0
+ST05,Hyderabad,P068,Moisturiser 200 ml,Personal Care,OK,9,6.0,3.0,0.42,9.0,0,0.0
+ST05,Hyderabad,P069,Sunscreen 50 g,Personal Care,No recent demand,76,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P070,Hair Oil 200 ml,Personal Care,OK,13,9.0,4.0,0.74,14.0,1,71.0
+ST05,Hyderabad,P071,Deodorant 150 ml,Personal Care,Reorder now,3,5.0,3.0,0.26,7.0,4,562.0
+ST05,Hyderabad,P072,Hand Wash 250 ml,Personal Care,OK,54,6.0,3.0,0.38,8.0,0,0.0
+ST05,Hyderabad,P073,Sanitary Pads 20 pcs,Personal Care,OK,8,6.0,3.0,0.37,8.0,0,0.0
+ST05,Hyderabad,P074,Razor 5 pack,Personal Care,OK,26,13.0,5.0,1.3,22.0,0,0.0
+ST05,Hyderabad,P075,Talcum Powder 200 g,Personal Care,OK,10,8.0,4.0,0.63,13.0,3,273.0
+ST05,Hyderabad,P076,Detergent Powder 1 kg,Household,OK,17,12.0,5.0,1.4,22.0,5,432.0
+ST05,Hyderabad,P077,Liquid Detergent 1 L,Household,OK,10,6.0,3.0,0.45,9.0,0,0.0
+ST05,Hyderabad,P078,Dishwash Liquid 500 ml,Household,OK,16,9.0,4.0,0.87,15.0,0,0.0
+ST05,Hyderabad,P079,Dishwash Bar 3 pack,Household,No recent demand,102,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P080,Floor Cleaner 1 L,Household,OK,10,6.0,3.0,0.45,9.0,0,0.0
+ST05,Hyderabad,P081,Toilet Cleaner 500 ml,Household,OK,25,12.0,5.0,1.3,21.0,0,0.0
+ST05,Hyderabad,P082,Glass Cleaner 500 ml,Household,Reorder now,1,6.0,3.0,0.55,10.0,9,698.0
+ST05,Hyderabad,P083,Phenyl 1 L,Household,OK,11,6.0,3.0,0.6,11.0,0,0.0
+ST05,Hyderabad,P084,Garbage Bags 30 pcs,Household,OK,17,8.0,4.0,0.76,14.0,0,0.0
+ST05,Hyderabad,P085,Aluminium Foil 9 m,Household,OK,8,6.0,3.0,0.45,9.0,1,50.0
+ST05,Hyderabad,P086,Tissue Rolls 4 pack,Household,OK,91,11.0,4.0,1.25,19.0,0,0.0
+ST05,Hyderabad,P087,Agarbatti 100 sticks,Household,OK,16,7.0,3.0,0.72,12.0,0,0.0
+ST05,Hyderabad,P088,Matchbox 10 pack,Household,OK,16,15.0,6.0,1.69,27.0,11,168.0
+ST05,Hyderabad,P089,Mosquito Repellent Refill 45 ml,Household,OK,172,10.0,4.0,1.23,19.0,0,0.0
+ST05,Hyderabad,P090,Scrub Pad 3 pack,Household,OK,28,13.0,5.0,1.59,25.0,0,0.0
+ST05,Hyderabad,P091,Tomato Ketchup 500 g,Packaged Foods,Reorder now,18,18.0,6.0,1.48,27.0,9,695.0
+ST05,Hyderabad,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,71,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P093,Peanut Butter 340 g,Packaged Foods,OK,11,8.0,4.0,0.47,11.0,0,0.0
+ST05,Hyderabad,P094,Pasta 500 g,Packaged Foods,OK,118,12.0,5.0,0.88,18.0,0,0.0
+ST05,Hyderabad,P095,Instant Soup Pack,Packaged Foods,Reorder now,1,6.0,3.0,0.39,9.0,8,148.0
+ST05,Hyderabad,P096,Corn Flakes 475 g,Packaged Foods,OK,34,5.0,3.0,0.24,7.0,0,0.0
+ST05,Hyderabad,P097,Oats 1 kg,Packaged Foods,No recent demand,9,0.0,0.0,0.0,0.0,0,0.0
+ST05,Hyderabad,P098,Muesli 500 g,Packaged Foods,Reorder now,6,6.0,3.0,0.33,8.0,2,341.0
+ST05,Hyderabad,P099,Mango Pickle 400 g,Packaged Foods,OK,35,17.0,6.0,1.32,25.0,0,0.0
+ST05,Hyderabad,P100,Tomato Puree 200 g,Packaged Foods,OK,57,9.0,4.0,0.56,12.0,0,0.0
+ST05,Hyderabad,P101,Ready Mix Idli 500 g,Packaged Foods,OK,13,10.0,4.0,0.76,15.0,2,124.0
+ST05,Hyderabad,P102,Gulab Jamun Mix 175 g,Packaged Foods,OK,46,31.0,9.0,2.88,50.0,4,227.0
+ST05,Hyderabad,P103,Honey 500 g,Packaged Foods,Reorder now,6,8.0,4.0,0.43,11.0,5,869.0
+ST05,Hyderabad,P104,Vermicelli 400 g,Packaged Foods,OK,35,22.0,7.0,1.88,34.0,0,0.0
+ST05,Hyderabad,P105,Papad 200 g,Packaged Foods,Reorder now,8,9.0,4.0,0.58,13.0,5,218.0
+ST05,Hyderabad,P106,Notebook 172 pages,Stationery,OK,14,9.0,4.0,1.22,23.0,9,444.0
+ST05,Hyderabad,P107,Notebook 6 pack,Stationery,Reorder now,1,4.0,2.0,0.28,7.0,6,1461.0
+ST05,Hyderabad,P108,Ball Pen Blue 10 pack,Stationery,Reorder now,6,6.0,3.0,0.77,15.0,9,602.0
+ST05,Hyderabad,P109,Gel Pen 5 pack,Stationery,Reorder now,10,12.0,5.0,1.73,32.0,22,1108.0
+ST05,Hyderabad,P110,Pencil 10 pack,Stationery,Reorder now,3,4.0,2.0,0.39,8.0,5,185.0
+ST05,Hyderabad,P111,Eraser & Sharpener Set,Stationery,OK,25,13.0,5.0,2.01,36.0,11,241.0
+ST05,Hyderabad,P112,Geometry Box,Stationery,Reorder now,7,9.0,4.0,1.26,23.0,16,1343.0
+ST05,Hyderabad,P113,A4 Paper 500 sheets,Stationery,Reorder now,1,5.0,3.0,0.51,11.0,10,2577.0
+ST05,Hyderabad,P114,Sticky Notes 100 sheets,Stationery,Reorder now,3,5.0,3.0,0.39,9.0,6,228.0
+ST05,Hyderabad,P115,Highlighter 4 pack,Stationery,Reorder now,4,6.0,3.0,0.62,13.0,9,793.0
+ST05,Hyderabad,P116,Permanent Marker 2 pack,Stationery,Reorder now,5,6.0,3.0,0.73,14.0,9,524.0
+ST05,Hyderabad,P117,Glue Stick,Stationery,OK,19,12.0,5.0,1.8,32.0,13,212.0
+ST05,Hyderabad,P118,Cello Tape,Stationery,Reorder now,7,8.0,3.0,1.16,21.0,14,390.0
+ST05,Hyderabad,P119,Stapler,Stationery,OK,40,20.0,7.0,3.36,58.0,18,1496.0
+ST05,Hyderabad,P120,Drawing Book,Stationery,OK,10,8.0,4.0,1.07,21.0,11,573.0
+ST06,Chennai,P001,Basmati Rice 5 kg,Staples & Grains,OK,11,9.0,4.0,0.85,15.0,4,1942.0
+ST06,Chennai,P002,Sona Masoori Rice 10 kg,Staples & Grains,Reorder now,4,6.0,3.0,0.22,7.0,3,1324.0
+ST06,Chennai,P003,Whole Wheat Atta 5 kg,Staples & Grains,Reorder now,8,14.0,5.0,1.71,26.0,18,3405.0
+ST06,Chennai,P004,Toor Dal 1 kg,Staples & Grains,OK,49,28.0,8.0,2.1,42.0,0,0.0
+ST06,Chennai,P005,Moong Dal 1 kg,Staples & Grains,No recent demand,14,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P006,Chana Dal 1 kg,Staples & Grains,OK,34,9.0,4.0,0.47,12.0,0,0.0
+ST06,Chennai,P007,Masoor Dal 1 kg,Staples & Grains,OK,141,12.0,5.0,1.26,21.0,0,0.0
+ST06,Chennai,P008,Besan 500 g,Staples & Grains,Reorder now,3,14.0,5.0,0.91,20.0,17,1010.0
+ST06,Chennai,P009,Sugar 1 kg,Staples & Grains,No recent demand,92,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P010,Iodised Salt 1 kg,Staples & Grains,OK,25,15.0,6.0,0.91,21.0,0,0.0
+ST06,Chennai,P011,Poha 500 g,Staples & Grains,OK,56,23.0,8.0,2.89,43.0,0,0.0
+ST06,Chennai,P012,Suji Rava 500 g,Staples & Grains,OK,52,30.0,8.0,2.36,46.0,0,0.0
+ST06,Chennai,P013,Sunflower Oil 1 L,Staples & Grains,OK,18,11.0,5.0,1.09,19.0,1,114.0
+ST06,Chennai,P014,Groundnut Oil 1 L,Staples & Grains,OK,51,27.0,7.0,2.08,41.0,0,0.0
+ST06,Chennai,P015,Turmeric Powder 200 g,Staples & Grains,OK,38,18.0,6.0,2.23,33.0,0,0.0
+ST06,Chennai,P016,Full Cream Milk 1 L,Dairy,Reorder now,5,6.0,3.0,1.09,7.0,2,110.0
+ST06,Chennai,P017,Toned Milk 1 L,Dairy,Reorder now,11,13.0,5.0,3.43,16.0,5,212.0
+ST06,Chennai,P018,Double Toned Milk 500 ml,Dairy,Reorder now,5,8.0,4.0,1.56,9.0,4,88.0
+ST06,Chennai,P019,Curd 400 g,Dairy,OK,48,20.0,7.0,5.62,52.0,4,129.0
+ST06,Chennai,P020,Curd 1 kg,Dairy,OK,16,9.0,4.0,1.9,20.0,4,247.0
+ST06,Chennai,P021,Paneer 200 g,Dairy,OK,28,8.0,4.0,1.55,18.0,0,0.0
+ST06,Chennai,P022,Butter 100 g,Dairy,OK,33,8.0,4.0,1.48,18.0,0,0.0
+ST06,Chennai,P023,Butter 500 g,Dairy,OK,63,16.0,7.0,3.94,43.0,0,0.0
+ST06,Chennai,P024,Ghee 500 ml,Dairy,No recent demand,53,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P025,Ghee 1 L,Dairy,Stocked out,0,5.0,3.0,0.73,10.0,10,5405.0
+ST06,Chennai,P026,Cheese Slices 200 g,Dairy,OK,26,7.0,3.0,1.51,17.0,0,0.0
+ST06,Chennai,P027,Mozzarella Cheese 200 g,Dairy,OK,33,12.0,5.0,3.07,33.0,0,0.0
+ST06,Chennai,P028,Flavoured Milk 200 ml,Dairy,OK,97,16.0,6.0,4.61,48.0,0,0.0
+ST06,Chennai,P029,Sweet Lassi 200 ml,Dairy,Reorder now,7,18.0,7.0,4.72,50.0,43,876.0
+ST06,Chennai,P030,Buttermilk 200 ml,Dairy,OK,33,18.0,7.0,5.1,53.0,20,233.0
+ST06,Chennai,P031,Salted Chips 50 g,Snacks,OK,1737,94.0,21.0,17.01,209.0,0,0.0
+ST06,Chennai,P032,Masala Chips 50 g,Snacks,OK,26,16.0,6.0,2.28,32.0,6,96.0
+ST06,Chennai,P033,Aloo Bhujia 400 g,Snacks,Reorder now,1,8.0,4.0,0.91,15.0,14,1182.0
+ST06,Chennai,P034,Moong Dal Namkeen 200 g,Snacks,OK,22,9.0,4.0,1.0,15.0,0,0.0
+ST06,Chennai,P035,Mixture 400 g,Snacks,Reorder now,3,19.0,7.0,2.76,38.0,35,2602.0
+ST06,Chennai,P036,Cream Biscuits 120 g,Snacks,OK,524,41.0,11.0,6.88,87.0,0,0.0
+ST06,Chennai,P037,Glucose Biscuits 200 g,Snacks,Reorder now,7,19.0,6.0,2.91,39.0,32,578.0
+ST06,Chennai,P038,Marie Biscuits 250 g,Snacks,OK,17,9.0,4.0,1.12,17.0,0,0.0
+ST06,Chennai,P039,Choco Cookies 150 g,Snacks,OK,20,10.0,4.0,1.32,19.0,0,0.0
+ST06,Chennai,P040,Milk Chocolate Bar 40 g,Snacks,Reorder now,11,27.0,9.0,4.23,56.0,45,1394.0
+ST06,Chennai,P041,Chocolate Bar 100 g,Snacks,OK,84,23.0,8.0,3.5,47.0,0,0.0
+ST06,Chennai,P042,Instant Noodles Masala 70 g,Snacks,OK,113,30.0,10.0,4.53,60.0,0,0.0
+ST06,Chennai,P043,Popcorn 60 g,Snacks,OK,39,14.0,6.0,1.8,26.0,0,0.0
+ST06,Chennai,P044,Roasted Peanuts 200 g,Snacks,OK,254,18.0,6.0,2.74,37.0,0,0.0
+ST06,Chennai,P045,Namkeen Sev 200 g,Snacks,OK,29,19.0,6.0,2.89,38.0,9,283.0
+ST06,Chennai,P046,Mango Drink 600 ml,Beverages,OK,43,14.0,5.0,3.79,43.0,0,0.0
+ST06,Chennai,P047,Mango Drink 200 ml,Beverages,Reorder now,20,26.0,8.0,8.19,90.0,70,874.0
+ST06,Chennai,P048,Packaged Water 1 L,Beverages,OK,24,17.0,7.0,4.67,54.0,30,389.0
+ST06,Chennai,P049,Packaged Water 2 L,Beverages,OK,58,19.0,7.0,5.53,63.0,5,122.0
+ST06,Chennai,P050,Orange Juice 1 L,Beverages,OK,21,9.0,4.0,2.35,28.0,7,623.0
+ST06,Chennai,P051,Apple Juice 1 L,Beverages,OK,23,11.0,5.0,2.54,31.0,8,742.0
+ST06,Chennai,P052,Tea Powder 500 g,Beverages,OK,20,11.0,5.0,2.62,32.0,12,2153.0
+ST06,Chennai,P053,Tea Powder 250 g,Beverages,Reorder now,1,4.0,2.0,0.55,8.0,7,661.0
+ST06,Chennai,P054,Instant Coffee 100 g,Beverages,OK,9,6.0,3.0,1.25,16.0,7,1496.0
+ST06,Chennai,P055,Instant Coffee 50 g,Beverages,Reorder now,6,6.0,3.0,1.11,15.0,9,1005.0
+ST06,Chennai,P056,Green Tea Bags 25 pcs,Beverages,OK,136,6.0,3.0,1.33,17.0,0,0.0
+ST06,Chennai,P057,Lemon Drink 600 ml,Beverages,OK,26,10.0,4.0,2.69,31.0,5,127.0
+ST06,Chennai,P058,Coconut Water 200 ml,Beverages,OK,659,33.0,10.0,10.39,114.0,0,0.0
+ST06,Chennai,P059,Malt Health Drink 500 g,Beverages,OK,33,5.0,3.0,0.75,11.0,0,0.0
+ST06,Chennai,P060,Rose Syrup 750 ml,Beverages,No recent demand,122,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P061,Shampoo 340 ml,Personal Care,Reorder now,3,5.0,3.0,0.23,6.0,3,737.0
+ST06,Chennai,P062,Conditioner 180 ml,Personal Care,OK,12,6.0,3.0,0.49,10.0,0,0.0
+ST06,Chennai,P063,Bathing Soap 4 pack,Personal Care,OK,13,9.0,4.0,0.83,15.0,2,206.0
+ST06,Chennai,P064,Body Wash 250 ml,Personal Care,OK,17,11.0,5.0,0.84,16.0,0,0.0
+ST06,Chennai,P065,Toothpaste 200 g,Personal Care,OK,177,14.0,5.0,1.36,23.0,0,0.0
+ST06,Chennai,P066,Toothbrush 3 pack,Personal Care,OK,23,15.0,6.0,1.49,26.0,3,193.0
+ST06,Chennai,P067,Face Wash 100 ml,Personal Care,OK,8,6.0,3.0,0.49,10.0,2,231.0
+ST06,Chennai,P068,Moisturiser 200 ml,Personal Care,Stocked out,0,6.0,3.0,0.39,9.0,9,1438.0
+ST06,Chennai,P069,Sunscreen 50 g,Personal Care,No recent demand,64,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P070,Hair Oil 200 ml,Personal Care,OK,13,9.0,4.0,0.74,14.0,1,71.0
+ST06,Chennai,P071,Deodorant 150 ml,Personal Care,Reorder now,3,4.0,2.0,0.26,6.0,3,422.0
+ST06,Chennai,P072,Hand Wash 250 ml,Personal Care,Reorder now,3,4.0,2.0,0.23,5.0,2,146.0
+ST06,Chennai,P073,Sanitary Pads 20 pcs,Personal Care,OK,5,4.0,2.0,0.26,6.0,1,147.0
+ST06,Chennai,P074,Razor 5 pack,Personal Care,OK,35,14.0,5.0,1.39,24.0,0,0.0
+ST06,Chennai,P075,Talcum Powder 200 g,Personal Care,OK,22,9.0,4.0,0.83,15.0,0,0.0
+ST06,Chennai,P076,Detergent Powder 1 kg,Household,OK,15,12.0,5.0,1.26,21.0,6,518.0
+ST06,Chennai,P077,Liquid Detergent 1 L,Household,Reorder now,5,6.0,3.0,0.44,9.0,4,675.0
+ST06,Chennai,P078,Dishwash Liquid 500 ml,Household,OK,16,9.0,4.0,1.01,17.0,1,74.0
+ST06,Chennai,P079,Dishwash Bar 3 pack,Household,No recent demand,57,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P080,Floor Cleaner 1 L,Household,Reorder now,1,6.0,3.0,0.58,10.0,9,1101.0
+ST06,Chennai,P081,Toilet Cleaner 500 ml,Household,OK,22,10.0,4.0,1.07,17.0,0,0.0
+ST06,Chennai,P082,Glass Cleaner 500 ml,Household,OK,9,6.0,3.0,0.47,9.0,0,0.0
+ST06,Chennai,P083,Phenyl 1 L,Household,OK,9,6.0,3.0,0.52,10.0,1,83.0
+ST06,Chennai,P084,Garbage Bags 30 pcs,Household,OK,8,6.0,3.0,0.42,9.0,1,73.0
+ST06,Chennai,P085,Aluminium Foil 9 m,Household,OK,61,6.0,3.0,0.48,9.0,0,0.0
+ST06,Chennai,P086,Tissue Rolls 4 pack,Household,OK,18,9.0,4.0,0.97,16.0,0,0.0
+ST06,Chennai,P087,Agarbatti 100 sticks,Household,OK,18,8.0,4.0,0.79,14.0,0,0.0
+ST06,Chennai,P088,Matchbox 10 pack,Household,OK,35,13.0,5.0,1.5,24.0,0,0.0
+ST06,Chennai,P089,Mosquito Repellent Refill 45 ml,Household,OK,27,11.0,5.0,1.14,19.0,0,0.0
+ST06,Chennai,P090,Scrub Pad 3 pack,Household,OK,32,13.0,5.0,1.46,23.0,0,0.0
+ST06,Chennai,P091,Tomato Ketchup 500 g,Packaged Foods,OK,20,19.0,6.0,1.58,29.0,9,695.0
+ST06,Chennai,P092,Mixed Fruit Jam 500 g,Packaged Foods,No recent demand,25,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P093,Peanut Butter 340 g,Packaged Foods,OK,13,8.0,4.0,0.5,11.0,0,0.0
+ST06,Chennai,P094,Pasta 500 g,Packaged Foods,OK,15,12.0,5.0,0.91,18.0,3,214.0
+ST06,Chennai,P095,Instant Soup Pack,Packaged Foods,Reorder now,6,6.0,3.0,0.28,7.0,1,19.0
+ST06,Chennai,P096,Corn Flakes 475 g,Packaged Foods,Reorder now,4,5.0,3.0,0.25,7.0,3,377.0
+ST06,Chennai,P097,Oats 1 kg,Packaged Foods,No recent demand,14,0.0,0.0,0.0,0.0,0,0.0
+ST06,Chennai,P098,Muesli 500 g,Packaged Foods,OK,7,6.0,3.0,0.37,9.0,2,341.0
+ST06,Chennai,P099,Mango Pickle 400 g,Packaged Foods,Reorder now,7,16.0,6.0,1.2,23.0,16,1601.0
+ST06,Chennai,P100,Tomato Puree 200 g,Packaged Foods,OK,9,8.0,4.0,0.46,11.0,2,90.0
+ST06,Chennai,P101,Ready Mix Idli 500 g,Packaged Foods,Reorder now,8,8.0,4.0,0.52,12.0,4,247.0
+ST06,Chennai,P102,Gulab Jamun Mix 175 g,Packaged Foods,OK,76,31.0,9.0,2.85,49.0,0,0.0
+ST06,Chennai,P103,Honey 500 g,Packaged Foods,OK,78,8.0,4.0,0.5,11.0,0,0.0
+ST06,Chennai,P104,Vermicelli 400 g,Packaged Foods,OK,38,26.0,9.0,2.14,40.0,2,77.0
+ST06,Chennai,P105,Papad 200 g,Packaged Foods,OK,14,9.0,4.0,0.53,12.0,0,0.0
+ST06,Chennai,P106,Notebook 172 pages,Stationery,OK,31,8.0,4.0,0.9,18.0,0,0.0
+ST06,Chennai,P107,Notebook 6 pack,Stationery,Reorder now,3,3.0,2.0,0.21,6.0,3,730.0
+ST06,Chennai,P108,Ball Pen Blue 10 pack,Stationery,Reorder now,6,8.0,4.0,0.81,17.0,11,736.0
+ST06,Chennai,P109,Gel Pen 5 pack,Stationery,Reorder now,3,12.0,4.0,1.93,33.0,30,1511.0
+ST06,Chennai,P110,Pencil 10 pack,Stationery,Reorder now,3,4.0,2.0,0.43,9.0,6,222.0
+ST06,Chennai,P111,Eraser & Sharpener Set,Stationery,OK,72,15.0,6.0,2.27,41.0,0,0.0
+ST06,Chennai,P112,Geometry Box,Stationery,Reorder now,2,9.0,4.0,1.11,21.0,19,1595.0
+ST06,Chennai,P113,A4 Paper 500 sheets,Stationery,Reorder now,3,4.0,2.0,0.39,8.0,5,1288.0
+ST06,Chennai,P114,Sticky Notes 100 sheets,Stationery,OK,14,5.0,3.0,0.45,10.0,0,0.0
+ST06,Chennai,P115,Highlighter 4 pack,Stationery,OK,7,6.0,3.0,0.71,14.0,7,616.0
+ST06,Chennai,P116,Permanent Marker 2 pack,Stationery,Reorder now,6,6.0,3.0,0.56,12.0,6,350.0
+ST06,Chennai,P117,Glue Stick,Stationery,Reorder now,9,12.0,5.0,1.67,31.0,22,358.0
+ST06,Chennai,P118,Cello Tape,Stationery,OK,10,9.0,4.0,1.31,24.0,14,390.0
+ST06,Chennai,P119,Stapler,Stationery,OK,25,20.0,7.0,3.36,58.0,33,2743.0
+ST06,Chennai,P120,Drawing Book,Stationery,OK,9,7.0,4.0,0.77,16.0,7,365.0
